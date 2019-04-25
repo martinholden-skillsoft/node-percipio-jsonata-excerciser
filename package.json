@@ -17,7 +17,7 @@
     "changelog2": "rimraf CHANGELOG.md && auto-changelog --template keepachangelog",
     "prestart": "npm run browserify",
     "prerestart": "npm run browserify",
-    "start": "node app.js",
+    "start": "node start.js",
     "postinstall": "npm run browserify",
     "browserify": "browserify public/scripts/exerciser.js -o public/scripts/bundle.js"
   },
