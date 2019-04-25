@@ -3,19 +3,25 @@
   "version": "1.0.0",
   "description": "Based on the JSONata Excerciser project https://github.com/jsonata-js/jsonata-exerciser",
   "main": "start.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/martinholden-skillsoft/node-percipio-jsonata-excerciser.git"
+  },
   "scripts": {
     "watch": "nodemon ./start.js",
     "test": "mocha",
     "lint": "eslint . --ignore",
     "preversion": "npm run lint && npm run browserify",
     "postversion": "git push && git push --tags && npm run changelog && git push ",
-    "changelog": "rimraf CHANGELOG.md && changelog https://github.com/martinholden-skillsoft/node-percipio-federatedsearchweb all > CHANGELOG.md && git add . && git commit . -m changelog && git push",
+    "changelog": "rimraf CHANGELOG.md && auto-changelog --template keepachangelog && git add . && git commit . -m changelog && git push",
+    "changelog2": "rimraf CHANGELOG.md && auto-changelog --template keepachangelog",
     "prestart": "npm run browserify",
     "prerestart": "npm run browserify",
     "start": "node app.js",
     "postinstall": "npm run browserify",
     "browserify": "browserify public/scripts/exerciser.js -o public/scripts/bundle.js"
   },
+  "author": "Martin Holden &lt;martin.holden@skillsoft.com&gt;",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
@@ -31,9 +37,9 @@
     "shortid": "^2.2.8"
   },
   "devDependencies": {
-    "browserify": "^16.2.2",
+    "auto-changelog": "^1.13.0",
     "babel-eslint": "^10.0.1",
-    "changelog": "^1.4.2",
+    "browserify": "^16.2.2",
     "eslint": "^5.3.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
