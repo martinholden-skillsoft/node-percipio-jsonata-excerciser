@@ -1,0 +1,104 @@
+$.(
+		$build_topic_values := (
+			$maxkeywords := 10;
+			$padarray := [1..$maxkeywords].('');
+			$keywords := keywords ? keywords : [];
+			
+			$keywords := $append($keywords, $map(associations.areas, function ($v, $i, $a) {
+				$v ? $trim($v) : ''
+			}));
+			
+			$keywords := $append($keywords, $map(associations.subjects, function ($v, $i, $a) {
+				$v ? $trim($v) : ''
+			}));
+			
+			$keywords := $append($keywords, $map(associations.channels, function ($v, $i, $a) {
+				$v.title ? $trim($v.title) : ''
+			}));
+			
+			$keywords := $map($sort($keywords), function ($v, $i, $a) {
+				$i != 0 ? (($v = $a[$i - 1]) ? '' : $v) : $v
+			});
+			
+			$keywords := $filter($keywords, function ($v, $i, $a) {
+				$v != ''
+			});
+			$keywords := $append($keywords, $padarray);
+			
+			$keywords := $filter($keywords, function ($v, $i, $a) {
+				$i < $maxkeywords
+			});
+			
+			$topic_key_value_string_combined := $map($keywords, function ($v, $i, $a) {
+				'TOPIC' & ($i + 1) & '~|~' & $v
+			});
+			
+			$convert_to_topicn_values := $topic_key_value_string_combined.{$substringBefore('~|~'): $substringAfter('~|~')};
+			
+			$convert_to_topicn_values
+		);
+
+		$transformed_other_data := (
+			$.{
+				'ContentType': ($localType := $lookup([{
+							'audiobook': 'Book',
+							'book': 'Book',
+							'channel': 'Article',
+							'course': 'Course',
+							'linked_content': 'Article',
+							'video': 'Video'
+						}
+					], $lowercase(contentType.percipioType)); $localType ? $localType : ''; ),
+			'ContentID': xapiActivityId,
+			'URL': link,
+			'Delete': lifecycle.status = 'ACTIVE' ? 'N' : 'Y',
+			'Title': $trim(localizedMetadata[0].title),
+			'Summary': (
+					$htmltags := /<\/?([a-z0-9]*)\b[^>]*>?/;
+					$dash := /&(#8210;|#8211;|#8212;|#8213;|ndash;|mdash;|horbar;)/;
+					$apos := /&(#8217;|apos;|rsquo;)/;
+					$copy := /&(#169;|copy;)/;
+					$tm := /&(#8482;|trade;)/;
+					$registered := /&(#174;|reg;)/;
+					$otherentities :=  /&(#?[\w\d]+;)/;
+					
+					$desc := localizedMetadata[0].description ? $trim(localizedMetadata[0].description) : '';
+					$desc := $replace($desc, $htmltags, '');
+					$desc := $replace($desc, $dash, '-');
+					$desc := $replace($desc, $copy, '(c)');
+					$desc := $replace($desc, $registered, '(r)');
+					$desc := $replace($desc, $tm, '(tm)');
+					$desc := $replace($desc, $apos, $base64decode('Jw=='));
+					$desc := $replace($desc, $otherentities, '');
+
+					$desc := $substring($desc, 0, 2000)
+			),
+			'ImageURL': $trim(imageUrl),
+			'Duration': (
+					$input := (duration = null ? 'PT0H0M0S' : duration);
+					$time := $substringAfter($input, 'T');
+					$hours := $contains($time, 'H') ? $number($substringBefore($time, 'H')) : 0;
+					$remainder := $contains($time, 'H') ? $substringAfter($time, 'H') : $time;
+					$minutes := $contains($remainder, 'M') ? $number($substringBefore($remainder, 'M')) : 0;
+					$remainder := $substringAfter($remainder, 'M');
+					$seconds := $contains($remainder, 'S') ? $number($substringBefore($remainder, 'S')) : 0;
+					$totalseconds := (($hours * 60 * 60) + ($minutes * 60) + $seconds);
+
+					$result := $lookup([{
+							'audiobook': '',
+							'book': '',
+							'channel': '',
+							'course': $round($totalseconds / 3600, 1),
+							'linked_content': '',
+							'video': $round($totalseconds / 60, 1)
+						}
+					], $lowercase(contentType.percipioType));
+					$result ? $result : '';
+			),
+			'Language': localeCodes[0] ? $substringBefore(localeCodes[0], '-') : 'en',
+			'Provider': ''
+		});
+
+	$results := $merge([$transformed_other_data, $build_topic_values]);
+	$results;
+)

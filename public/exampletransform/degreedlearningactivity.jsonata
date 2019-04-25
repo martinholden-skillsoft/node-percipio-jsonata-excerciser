@@ -1,0 +1,19 @@
+$.{
+	'UserID': $trim($lowercase(userId)),
+	'CourseID': ($percipiotype := $lookup([{
+					'video': 'video',
+					'course': 'course',
+					'channel': 'channel',
+					'book': 'book',
+					'book review': 'book',
+					'audiobook': 'audiobook',
+					'book summary': 'book',
+					'audiobook summary': 'audiobook',
+					'testprep': 'linked_content',
+					'practice lab': 'linked_content',
+					'linked content': 'linked_content'
+				}
+			], ($lowercase(contentType))); $trim('https://xapi.percipio.com/xapi/' & $percipiotype & '/' & contentUuid)),
+	'CompletionDate': (
+		completedDate ? $replace($substringBefore(completedDate, 'T'), '-', '') : '')
+}

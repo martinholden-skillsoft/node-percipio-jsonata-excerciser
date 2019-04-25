@@ -1,0 +1,51 @@
+{
+  "name": "node-percipio-jsonata-excerciser",
+  "version": "0.0.0",
+  "description": "Based on the JSONata Excerciser project https://github.com/jsonata-js/jsonata-exerciser",
+  "main": "start.js",
+  "scripts": {
+    "watch": "nodemon ./start.js",
+    "test": "mocha",
+    "lint": "eslint . --ignore",
+    "preversion": "npm run lint && npm run browserify",
+    "postversion": "git push && git push --tags && npm run changelog && git push ",
+    "changelog": "rimraf CHANGELOG.md && changelog https://github.com/martinholden-skillsoft/node-percipio-federatedsearchweb all > CHANGELOG.md && git add . && git commit . -m changelog && git push",
+    "prestart": "npm run browserify",
+    "prerestart": "npm run browserify",
+    "start": "node app.js",
+    "postinstall": "npm run browserify",
+    "browserify": "browserify public/scripts/exerciser.js -o public/scripts/bundle.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ejs": "^2.5.7",
+    "cloudant": "^1.10.0",
+    "body-parser": "^1.18.2",
+    "method-override": "^3.0.0",
+    "morgan": "^1.9.0",
+    "errorhandler": "^1.5.0",
+    "codemirror": "^5.19.0",
+    "moment": "^2.20.1",
+    "jsonata": "^1.5.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "browserify": "^16.2.2",
+    "babel-eslint": "^10.0.1",
+    "changelog": "^1.4.2",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.11.0",
+    "prettier": "^1.16.4",
+    "rimraf": "^2.6.3"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}

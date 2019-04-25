@@ -1,0 +1,4995 @@
+[
+  {
+    "id": "1769a340-f914-11e6-aad2-6b3c03be7fe8",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/1769a340-f914-11e6-aad2-6b3c03be7fe8",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Transitions",
+        "description": "<p>Expand your leadership skills to achieve better business results through people and teams as you transition to new leadership roles. </p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-24T11:42:27Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJt-PFpN3mN",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/1769a340-f914-11e6-aad2-6b3c03be7fe8.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "8c068380-e717-11e6-9835-f723b46a2688",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/8c068380-e717-11e6-9835-f723b46a2688",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Foundations",
+        "description": "<p>Learn the foundational principles of the leadership role, from strategic business planning and implementation through managing teams and people.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-16T12:48:09Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/8c068380-e717-11e6-9835-f723b46a2688.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Women in Leadership",
+        "description": "<p>Women leaders face unique challenges and opportunities. Learn how to lead effectively as a woman in today&#39;s workplace.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-24T11:42:44Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "0020eef1-162c-438c-a3c7-cd5f0ccfa6ed",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/0020eef1-162c-438c-a3c7-cd5f0ccfa6ed",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Cross-Cultural Leadership",
+        "description": "<p>Today&#39;s leaders operate in a multi-cultural environment. Learn how to lead global teams to foster cross-cultural understanding. </p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-10-01T17:02:42Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJo-gzUE27E",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/0020eef1-162c-438c-a3c7-cd5f0ccfa6ed/7ac7e27d-fda5-4cdc-bce1-10a8a8980555.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "dc47fa20-b517-11e8-a111-01475a69a51b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/dc47fa20-b517-11e8-a111-01475a69a51b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership is Poetry",
+        "description": "<p>Leadership is a complex, long-studied part of human history.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-10-17T13:11:42Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SkybKDUeB374",
+    "imageUrl": "https://cdn2.percipio.com/public/b/524c9154-e461-4bc5-a886-b39d3bd71ddc/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M7S",
+    "by": [
+      "Des Dearlove"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "26f626b4-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f626b4-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership is a Marathon",
+        "description": "We tend to focus on observable leadership behaviors rather than on what’s going on inside.  Management is a sprint; but leadership is a marathon.  Leaders create the future; they must run every day.  Be like a golfer; calm yourself; get your head in the game."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/S1ntub6CV2XE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/250561bf-9450-4978-8fd7-4af8ed9dca08/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M58S",
+    "by": [
+      "Liz Mellon"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "0e904900-f281-11e8-a3f0-07dcf0c94ea9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/0e904900-f281-11e8-a3f0-07dcf0c94ea9",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership and Power",
+        "description": "<p>Leadership is about power.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-01-31T13:40:29Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/H1wtodR-NN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b1ce6454-b739-4c38-936c-1901c3417667/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M24S",
+    "by": [
+      "Jeffrey Pfeffer"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "d1a84290-e71a-11e6-9835-f723b46a2688",
+          "title": "Influence & Persuasion",
+          "link": "https://notareal.percipio.url/cd/HksdewaaV2mN"
+        }
+      ],
+      "parent": {
+        "id": "26d3aa91-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Influence & Persuasion",
+        "link": "https://notareal.percipio.url/cd/ByEuzbT0V27E"
+      }
+    }
+  },
+  {
+    "id": "26f626b2-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f626b2-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership is a Mindset",
+        "description": "Many people ask whether leaders are born or made. Typically the focus is on the skill set a leader has. But John Foster illustrates that leadership is not so much about a skill set as it is a mindset.\r\n"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SyFYOZpCN3mN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/0ca36b94-17e4-44a4-be0d-7972fe779e3b/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M24S",
+    "by": [
+      "John Foster"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "26f626b6-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f626b6-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Centered Leadership",
+        "description": "Centered leadership is five capabilities. Starting with yourself: 1) build on strengths; 2) frame and reframe (treat situations as learning opportunities; not things to fear); 3) create trust-based relationships; 4) take risks and own the results; and 5) infuse positive energy."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJy5u-TCV27V",
+    "imageUrl": "https://cdn2.percipio.com/public/b/6914b16d-af8a-401e-845c-a94ccf285234/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M36S",
+    "by": [
+      "Joanna Barsh"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "b0dc3050-5b49-11e7-894d-923989a9e0a5",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/b0dc3050-5b49-11e7-894d-923989a9e0a5",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Women in Leadership",
+        "description": "<p>Women in leadership, whether on the board or as CEOs, make businesses and the world better.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-07-27T16:42:28Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/B1GDgOF1BnX4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/fab799bf-62a8-4d4a-aff1-aa0ba020f049/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M57S",
+    "by": [
+      "Rita Clifton"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": {
+        "id": "270c46c1-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Women in Leadership",
+        "link": "https://notareal.percipio.url/cd/HkWWUzRA4nX4"
+      }
+    }
+  },
+  {
+    "id": "26f8228a-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f8228a-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The Case for Influential Leadership",
+        "description": "Leadership is about outputs; but leaders can’t create those outputs by themselves.  That means leadership is about people. Leaders need to motivate; encourage; and engage others; both in and outside their organization.  In short; leaders need to be able to influence others."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rJwjuWaCE27V",
+    "imageUrl": "https://cdn2.percipio.com/public/b/a2d36a5c-80a5-43a8-a487-d4dcc5d69b24/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M54S",
+    "by": [
+      "Colin Gautrey"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "26f20802-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f20802-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Defined",
+        "description": "Leadership is of critical importance to business executives. Vishen Lakhiani defines his vision of great leadership; and how that vision changed over the years as he gained experience in the business world."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-26T02:17:58Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Hy1vudKCN3XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/1610d16a-f9df-44e9-a4b2-5135945ae515/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M2S",
+    "by": [
+      "Vishen Lakhiani"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "701856d0-733e-11e8-ac96-b59b1df8b5e6",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/701856d0-733e-11e8-ac96-b59b1df8b5e6",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership in a Digital Space",
+        "description": "<p>If you have good leadership skills in general, leading in a digital space can open up new channels for your abilities.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-08-28T13:13:05Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJQLJIlr3QN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/2e5f6e2b-e531-4aab-a71a-635e06cb67cb/image003.jpg",
+    "keywords": [],
+    "duration": "PT2M10S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+          "title": "The Digital Leader",
+          "link": "https://notareal.percipio.url/cd/B13rXvKpEnmE"
+        }
+      ],
+      "parent": {
+        "id": "3ce37880-72f3-11e8-a369-c1c5e7426ac9",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading in the Digital Era",
+        "link": "https://notareal.percipio.url/cd/S1VUyLeHhXV"
+      }
+    }
+  },
+  {
+    "id": "61f305ec-3452-4617-ae43-449496b482c9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/61f305ec-3452-4617-ae43-449496b482c9",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Women & Leadership",
+        "description": "<p>Women leaders face unique challenges and opportunities. Learn how to lead effectively as a woman in today&#39;s workplace.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-12-04T16:26:57Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJv6-vY6437N",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/61f305ec-3452-4617-ae43-449496b482c9/4fb16a54-82f2-4b59-bfb1-f3f47cd16467.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "55caaf00-c400-11e7-bfa9-ef5e1a5e569f",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/55caaf00-c400-11e7-bfa9-ef5e1a5e569f",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Networking",
+        "description": "<p>Having a vibrant network is key to any leader&#39;s success. Identify ways to expand and reinforce your professional relationships.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-01T19:09:03Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkNXbNdpN3QV",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/55caaf00-c400-11e7-bfa9-ef5e1a5e569f/620ea320-c400-11e7-9233-92959924aa1c.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "f49418e0-2edc-11e9-89ef-fbf5c8f19997",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/f49418e0-2edc-11e9-89ef-fbf5c8f19997",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Presence",
+        "description": "<p>Because leaders are people, too, they can react in the moment, briefly forgetting their professional role. These tips make it easier to maintain and sustain leadership presence.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-02-24T20:53:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SyOEmFch0xIV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/4a527b78-acce-40f5-914e-736af471bff1/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M26S",
+    "by": [
+      "Alisa Cohn"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "5a650790-d049-11e7-85c9-229182609c6f",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5a650790-d049-11e7-85c9-229182609c6f",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The Case for Influential Leadership",
+        "description": "<p>Leadership is about outputs, but leaders can’t create those outputs by themselves. That means leadership is about people. Leaders need to motivate, encourage, and engage others, both in and outside their organization. In short, leaders need to be able to influence others.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-01-22T19:23:28Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BkfZe4yeS2QE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c63dafa0-d097-11e7-b169-16f208f72fa7/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M54S",
+    "by": [
+      "Colin Gautrey"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "b1edd4c0-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Influential Leader",
+          "link": "https://notareal.percipio.url/cd/ByB--v6TE2QE"
+        }
+      ],
+      "parent": {
+        "id": "923090c0-ce3e-11e7-845b-9d7d00b83945",
+        "type": "COURSE",
+        "title": "Leadership Insights on Influence and Persuasion",
+        "link": "https://notareal.percipio.url/cd/HySzg4yer3mV"
+      }
+    }
+  },
+  {
+    "id": "26fa6c74-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26fa6c74-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Is in the Trenches",
+        "description": "Leaders are the ones willing to ask the questions. They are willing to be vulnerable; admit they don’t have the answers and ask the team; “What do you think?” The people on the front lines; in the trenches; have the answers.  Ask them."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1thdbaRV3mN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/6f295022-6875-415d-ac55-a4e83802002b/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M40S",
+    "by": [
+      "Betsy Myers"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "270dcd7d-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/270dcd7d-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Collaborative Leadership",
+        "description": "Collaborative leadership means 1) \r\nidentifying important partners \r\nthrough a broad network; 2) \r\nmodeling collaboration for team \r\nmembers; and 3) knowing when to \r\nstop collaborating. Collaborate \r\nwith different people to innovate \r\nand get out of the daily routine."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T23:53:53Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJ1GQGCREnXE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/91314da1-1238-4d8d-a87a-86e00adea5c8/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M41S",
+    "by": [
+      "Herminia  Ibarra"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "758dfac0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Collaboration",
+          "link": "https://notareal.percipio.url/cd/SJN1-O96EhQ4"
+        }
+      ],
+      "parent": {
+        "id": "270dcd7a-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Collaboration",
+        "link": "https://notareal.percipio.url/cd/Hk_QXMACE2XV"
+      }
+    }
+  },
+  {
+    "id": "817a5800-f27e-11e8-a3f0-07dcf0c94ea9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/817a5800-f27e-11e8-a3f0-07dcf0c94ea9",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership & Empathy",
+        "description": "<p>You are not a leader if no one is following.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-01-29T17:06:32Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SkSWgfuzAQE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/606828df-c3a9-406c-8a69-caa081fd82d8/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M29S",
+    "by": [
+      "Jeffrey Pfeffer"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "be54fc40-e71c-11e6-9835-f723b46a2688",
+          "title": "Emotional Intelligence",
+          "link": "https://notareal.percipio.url/cd/rJl0gl0pNhXN"
+        }
+      ],
+      "parent": {
+        "id": "2724fee1-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Emotional Intelligence",
+        "link": "https://notareal.percipio.url/cd/BysRUdKCN2X4"
+      }
+    }
+  },
+  {
+    "id": "26fb2fc4-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26fb2fc4-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Develop Your Leadership Signature",
+        "description": "Every leader has a unique leadership signature; made up of a credo—their core values and beliefs; what gives them the confidence to lead; and what provides credibility with others. Deborah Ancona describes methods for identifying your credo; confidence; and credibility."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rky6_-6RVhmN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/a1c15454-7ffa-4cd1-88bc-64cb2b4f4882/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M28S",
+    "by": [
+      "Deborah Ancona"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "2f1d11f0-b5c1-11e8-88b2-4d143f04a405",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/2f1d11f0-b5c1-11e8-88b2-4d143f04a405",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Slow Leadership",
+        "description": "<p>Moving forward quickly on decisions often produces a better outcome when leaders take it slow.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-10-17T13:13:13Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJt7Kv8eH2XE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/8b0ea663-4f0a-45c5-9bd8-19200bc56218/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M37S",
+    "by": [
+      "Stuart Crainer"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Agile Leader",
+          "link": "https://notareal.percipio.url/cd/r1uvbyc642Q4"
+        }
+      ],
+      "parent": {
+        "id": "72577d40-ce3e-11e7-845b-9d7d00b83945",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading with Agility",
+        "link": "https://notareal.percipio.url/cd/rk9HExernX4"
+      }
+    }
+  },
+  {
+    "id": "266d6eb1-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/266d6eb1-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Communication is Key to Successful Leadership",
+        "description": "Leadership requires courage and confidence because sometimes you’re unpopular."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-25T16:03:50Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Bk_1DuY0EnXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c25aa80f-2a7e-4732-974c-536ffe8e083d/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M25S",
+    "by": [
+      "Barbara Byrne"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "62dc4420-e719-11e6-9835-f723b46a2688",
+          "title": "Communication Essentials",
+          "link": "https://notareal.percipio.url/cd/BJS4vRaE2QV"
+        }
+      ],
+      "parent": {
+        "id": "26677b41-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Communication Essentials",
+        "link": "https://notareal.percipio.url/cd/r1P-wdKRN37V"
+      }
+    }
+  },
+  {
+    "id": "0e2d85f0-0b4a-11e8-9ba8-bf95a77a7703",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/0e2d85f0-0b4a-11e8-9ba8-bf95a77a7703",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The 5 Levels of Leadership",
+        "description": "<p>Based on the 5 Levels of Leadership paradigm in his book, Developing the Leader Within You, and then expanded further in the book, <em>The 5 Levels of Leadership</em>, John will explain how leaders can understand and increase their effectiveness. To lead well, you must embrace your need for continual improvement, and the 5 Levels provide a leadership GPS to help you with your journey. You must know where you are, to know where you’re going.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-20T20:14:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rkKXGnzxB27V",
+    "imageUrl": "https://cdn2.percipio.com/public/b/ad311d82-afd5-4ab4-85de-c9a61525477e/image001.jpg",
+    "keywords": [],
+    "duration": "PT46M19S",
+    "by": [
+      "John Maxwell"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "f0d60cc2-94bf-4ce9-b37f-3bbafbf8d795",
+          "title": "Live Events",
+          "link": "https://notareal.percipio.url/cd/HyNzfPKpV274"
+        }
+      ],
+      "parent": {
+        "id": "dfc8d930-ffcd-11e7-bcae-15c4c1c07d67",
+        "type": "COURSE",
+        "title": "2017 Live Events",
+        "link": "https://notareal.percipio.url/cd/HJ34GnflHhmN"
+      }
+    }
+  },
+  {
+    "id": "4abfe970-5935-11e8-bac0-ad568657e451",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4abfe970-5935-11e8-bac0-ad568657e451",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The Dark Side of Leadership",
+        "description": "<p>Leadership has a dark side; a &#34;leadership shadow&#34; that often creates an unknown; lurking fear.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-07-10T14:32:59Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1AXeISgB3XV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c644a8eb-0b95-4223-8aec-52fc8475e3f6/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M33S",
+    "by": [
+      "Tara Swart"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "23e1b070-f739-11e8-b612-3366dbbf3cd8",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/23e1b070-f739-11e8-b612-3366dbbf3cd8",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Situational Leadership",
+        "description": "<p>Situational leaders tailor their approach to the situation. Styles range from autocratic to participative; from push (fact based) to pull (listening and asking question); from analytic to relational. Practice different styles in venues that are outside your usual domain.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-02-08T17:47:50Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJcuwW6FP1HV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/75dd0d40-38da-4544-a5ae-4cd1637fc007/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M22S",
+    "by": [
+      "Herminia  Ibarra"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "17359e00-e718-11e6-9835-f723b46a2688",
+          "title": "Leading with Vision",
+          "link": "https://notareal.percipio.url/cd/rkOwekoaN3QE"
+        }
+      ],
+      "parent": {
+        "id": "27039430-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Leading with Vision",
+        "link": "https://notareal.percipio.url/cd/ryEKeYa0Nn74"
+      }
+    }
+  },
+  {
+    "id": "27012332-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/27012332-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "EQ and Leadership",
+        "description": "Everything in business is gray; good leaders see all sides; they have high EQ. For example; a great negotiation is one where everyone wins. Try to see things from the perspective of employees; customers; and shareholders. We’re all in it together. Try to work it out."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T23:47:07Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SyFJmzRREnXE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/5232385d-5b62-4993-a38c-3972d63d42c3/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M11S",
+    "by": [
+      "Glen Senk"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "edb142a0-e717-11e6-9835-f723b46a2688",
+          "title": "Leading with Emotional Intelligence",
+          "link": "https://notareal.percipio.url/cd/Skr7Z4up42XV"
+        }
+      ],
+      "parent": {
+        "id": "270086f1-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Leading with Emotional Intelligence",
+        "link": "https://notareal.percipio.url/cd/H1_ZmzAANhX4"
+      }
+    }
+  },
+  {
+    "id": "26f8e5d2-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f8e5d2-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Is About Convening",
+        "description": "The skill set that effective leaders possess today is complex and varied—but one of the most important skills a leader has is the ability to bring diverse people together and tap into their collective wisdom; explains Larry Dressler."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Sy9suZpAV2XE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/95f481c2-50e9-4fea-95c9-426b98bd77f5/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M50S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "26b79712-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26b79712-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Do-It-Yourself Leadership Development",
+        "description": "In these challenging economic times; the concept of do-it-yourself leadership development as proposed by Andrew Simon’s company is a highly appropriate solution for the task of training an organization’s future managers."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-28T12:57:53Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJTINMRAEnm4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/80d37bc0-0428-47ea-96f3-01c16ec1494d/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M34S",
+    "by": [
+      "Andrew Simon"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "42f582e0-f91e-11e6-aad2-6b3c03be7fe8",
+          "title": "Succession Planning",
+          "link": "https://notareal.percipio.url/cd/BkfpQ4da4nQE"
+        }
+      ],
+      "parent": {
+        "id": "26b35151-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Succession Planning",
+        "link": "https://notareal.percipio.url/cd/ByNPVz0CVnXN"
+      }
+    }
+  },
+  {
+    "id": "26f34083-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f34083-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Do-It-Yourself Leadership Development",
+        "description": "In these challenging economic times; the concept of do-it-yourself leadership development as proposed by Andrew Simon’s company is a highly appropriate solution for the task of training an organization’s future managers."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-26T02:17:58Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJsPu_F042XV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/e0d2cabd-0076-4dfd-9d41-2c202a16e953/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M34S",
+    "by": [
+      "Andrew Simon"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "f8f18b40-2cf1-11e8-b1ef-51537209d9f5",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/f8f18b40-2cf1-11e8-b1ef-51537209d9f5",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "New Leadership Transitions"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-08-23T09:17:40Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HyQ8WCSlr3XE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/9a87fc15-8662-44e0-9155-11cb48e2e3a0/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M2S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0b8f072e-1ff2-4230-bc84-9592db2e4e93",
+          "title": "Leader Transitions",
+          "link": "https://notareal.percipio.url/cd/H1emeJqaV3QN"
+        }
+      ],
+      "parent": {
+        "id": "c7a8ecf0-2cf0-11e8-b1ef-51537209d9f5",
+        "type": "COURSE",
+        "title": "New Leadership Transitions",
+        "link": "https://notareal.percipio.url/cd/rytDbRrlB2QN"
+      }
+    }
+  },
+  {
+    "id": "984c0284-9b0d-4264-bdf8-c485d5a16a96",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/channel/984c0284-9b0d-4264-bdf8-c485d5a16a96",
+    "contentType": {
+      "percipioType": "CHANNEL",
+      "category": "CHANNEL",
+      "displayLabel": "Channel"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Customer First Leadership",
+        "description": "<p>Customer satisfaction is crucial to business success. Learn how to lead with customers at the forefront of the business.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-05-18T18:36:25Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJ7wfxk042QN",
+    "imageUrl": "https://cdn2.percipio.com/public/c/channel/images/saved/984c0284-9b0d-4264-bdf8-c485d5a16a96/cdb6808c-aac6-4219-a96f-fb4175f4c5e1.jpg",
+    "keywords": [],
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": null,
+      "parent": null
+    }
+  },
+  {
+    "id": "26f31974-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f31974-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Learning Is the Foundation of Leadership",
+        "description": "Knowing is about the past. Learning is about creating the success of your people; your organization; and yourself. Learning is the foundation of leadership."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-26T02:17:58Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HySP_OtAV3XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/aaa1f5fa-963a-49ad-88a8-ddaed31c6724/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M44S",
+    "by": [
+      "Alan Berson"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "fe05e6e0-31c8-11e8-8ce8-e7e71c48b61b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/fe05e6e0-31c8-11e8-8ce8-e7e71c48b61b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership in the Digital Era",
+        "description": "<p>In this keynote, Charlene Li draws from her expertise to look at, how organizations manage digital transformations, the leadership required to manage change, and the culture necessary to execute on growth strategies. You’ll learn the art and science of how to listen, share, and engage with your employees and customers in the digital era. She’ll also discuss common objections and concerns among leaders—and how to overcome them.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-04-25T10:16:35Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/B1wRvBQgBhXE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/de6ba8db-9273-4b09-8328-f56ebb0e2b3f/image002.jpg",
+    "keywords": [],
+    "duration": "PT38M10S",
+    "by": [
+      "Charlene  Li"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "f0d60cc2-94bf-4ce9-b37f-3bbafbf8d795",
+          "title": "Live Events",
+          "link": "https://notareal.percipio.url/cd/HyNzfPKpV274"
+        }
+      ],
+      "parent": {
+        "id": "0cfc0410-2d26-11e8-b86e-cfe0050b7a70",
+        "type": "COURSE",
+        "title": "2018 Live Events",
+        "link": "https://notareal.percipio.url/cd/rylyOBmgHn74"
+      }
+    }
+  },
+  {
+    "id": "3991dca0-1e10-11e7-a818-0242c0a80806",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/3991dca0-1e10-11e7-a818-0242c0a80806",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Women in Leadership: Adapt Your Style to Avoid Pigeonholing",
+        "description": "<p>To avoid being pigeonholed, women in leadership need to vary their leadership styles.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-28T13:33:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1gbUMARV37E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/d10f6522-1731-4bf8-9374-14acae351e98/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M22S",
+    "by": [
+      "Belle Halpern"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": {
+        "id": "270c46c1-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Women in Leadership",
+        "link": "https://notareal.percipio.url/cd/HkWWUzRA4nX4"
+      }
+    }
+  },
+  {
+    "id": "27198d32-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/27198d32-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "What Is Ethical Leadership",
+        "description": "The seven lenses of ethical responsibility are profits; laws; character; people; communities; the planet; and the greater good.  All seven perspectives are important in order to live ethically in a global society."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:48:09Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/S1jwBtp0NnmE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/f944bd56-5f63-4de2-9bd9-c42480c15648/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M21S",
+    "by": [
+      "Linda Fisher Thornton"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "19e04bc0-f918-11e6-aad2-6b3c03be7fe8",
+          "title": "Ethics, Integrity, & Trust",
+          "link": "https://notareal.percipio.url/cd/HyZxMPtpEh7V"
+        }
+      ],
+      "parent": {
+        "id": "2718c9ed-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Ethics",
+        "link": "https://notareal.percipio.url/cd/BkWKrFpREnm4"
+      }
+    }
+  },
+  {
+    "id": "4b24afd5-c958-11e7-8c81-9212ca48e307",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4b24afd5-c958-11e7-8c81-9212ca48e307",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The Agile Leadership Style "
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-02-23T16:43:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkBHMNexS2XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/681524b4-7f17-4d29-892d-6c89242cb7e2/image001.jpg",
+    "keywords": [],
+    "duration": "PT6M23S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Agile Leader",
+          "link": "https://notareal.percipio.url/cd/r1uvbyc642Q4"
+        }
+      ],
+      "parent": {
+        "id": "4b24afd2-c958-11e7-8c81-9212ca48e307",
+        "type": "COURSE",
+        "title": "The Agile Leader",
+        "link": "https://notareal.percipio.url/cd/SkB8fVeeH37N"
+      }
+    }
+  },
+  {
+    "id": "ad4fcd90-fbb9-11e8-92f1-3368eede5630",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/ad4fcd90-fbb9-11e8-92f1-3368eede5630",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Inspiration is Foundational to Leadership",
+        "description": "<p>Inspiration is allowing people to be validated for their worth. Inspiration is sharing a vision of what we do; why we do it; where we’re going; and how their role fits that value proposition; no matter what they do. Inspiration is telling people that what they do matters.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-02-08T17:47:28Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BkTBPZTYD1S4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b7cff30d-68bc-4d98-b855-ba603a788289/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M11S",
+    "by": [
+      "Bob Chapman"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "a588dbe0-e718-11e6-9835-f723b46a2688",
+          "title": "Motivating People",
+          "link": "https://notareal.percipio.url/cd/rk6kZ19aV27N"
+        }
+      ],
+      "parent": {
+        "id": "2712fd81-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Motivating People",
+        "link": "https://notareal.percipio.url/cd/BJNZNGCAEn7V"
+      }
+    }
+  },
+  {
+    "id": "d41baac0-7595-11e8-a7cb-8be78357d2ae",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/d41baac0-7595-11e8-a7cb-8be78357d2ae",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Develop your Leadership Signature",
+        "description": "<p>Every leader has a unique leadership signature, made up of a credo—their core values and beliefs; what gives them the confidence to lead; and what provides credibility with others. Deborah Ancona describes methods for identifying your credo, confidence, and credibility.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-12-05T18:33:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SyggKPDeBhmV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/d37e1284-82d7-4252-bfa8-612155b4b926/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M28S",
+    "by": [
+      "Deborah Ancona"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "b7afd9ad-ee2c-45af-83fa-12448d186786",
+          "title": "Executive Presence",
+          "link": "https://notareal.percipio.url/cd/r1zllgAaE3XE"
+        }
+      ],
+      "parent": {
+        "id": "275fa880-72f3-11e8-a369-c1c5e7426ac9",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading with Executive Presence",
+        "link": "https://notareal.percipio.url/cd/S1iWKwvgSn7N"
+      }
+    }
+  },
+  {
+    "id": "5629608c-fea5-11e6-8638-0242c0a80b06",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5629608c-fea5-11e6-8638-0242c0a80b06",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Mentoring and Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T12:55:36Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HyIONaG042X4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/19463817-1074-4c5e-9866-f6a85a991422/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "51f0a7c0-f91e-11e6-aad2-6b3c03be7fe8",
+          "title": "Talent Management",
+          "link": "https://notareal.percipio.url/cd/B1MHWwY6NnQ4"
+        },
+        {
+          "id": "42f582e0-f91e-11e6-aad2-6b3c03be7fe8",
+          "title": "Succession Planning",
+          "link": "https://notareal.percipio.url/cd/BkfpQ4da4nQE"
+        }
+      ],
+      "parent": {
+        "id": "56296087-fea5-11e6-8638-0242c0a80b06",
+        "type": "COURSE",
+        "title": "Building Career Development Programs and Succession Planning",
+        "link": "https://notareal.percipio.url/cd/r1mKNaz0V2mN"
+      }
+    }
+  },
+  {
+    "id": "26f626b8-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f626b8-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Four Aspects of Leadership",
+        "description": "1) Be yourself. It takes too much effort to be someone else. 2) Surround yourself with people who are good at things you are bad at. 3) Everyone wants to perform and is only waiting to be inspired. 4) Go beyond logic and reason to do impossible things."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJzcO-6RVhXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/1077be88-5e26-4648-bff1-62bcb033ce0a/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M27S",
+    "by": [
+      "Vineet Nayar"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "51421940-f272-11e8-a3f0-07dcf0c94ea9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/51421940-f272-11e8-a3f0-07dcf0c94ea9",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Define The Purpose Of Your Leadership",
+        "description": "<p>True and lasting leadership derives from intrinsic motivations. William George shares a touching story about how never to lose one&#39;s sense of purpose.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-01-09T19:17:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ryWSe__gShmE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b78f752b-080f-419b-b024-7912e7abc20f/image001.jpg",
+    "keywords": [],
+    "duration": "PT5M36S",
+    "by": [
+      "William George"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "2bdc9940-486e-11e8-9c2c-3f7a2d7bb82f",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/2bdc9940-486e-11e8-9c2c-3f7a2d7bb82f",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership in the Digital Era"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-08-23T09:25:17Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SyyKZ0SlBnQE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/82f0b9d6-5002-4ef7-b7f8-0c447a2b867b/image001.jpg",
+    "keywords": [],
+    "duration": "PT6M53S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+          "title": "The Digital Leader",
+          "link": "https://notareal.percipio.url/cd/B13rXvKpEnmE"
+        }
+      ],
+      "parent": {
+        "id": "b0a17800-486c-11e8-9c2c-3f7a2d7bb82f",
+        "type": "COURSE",
+        "title": "Leading in the Digital Era",
+        "link": "https://notareal.percipio.url/cd/H1XFZRSlBhQN"
+      }
+    }
+  },
+  {
+    "id": "770148a0-5f2d-11e8-82bf-0fdcca8e1518",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/770148a0-5f2d-11e8-82bf-0fdcca8e1518",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Disruptive Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-11-14T10:34:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HyB1jyvxrhX4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/f4cd34d1-c5ce-4057-b422-e01cad6d0b1d/image001.jpg",
+    "keywords": [],
+    "duration": "PT7M57S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "4f7c488a-634e-414e-bcc2-b6f8a722acc7",
+          "title": "The Adaptive Leader",
+          "link": "https://notareal.percipio.url/cd/ByTaQP0aV2XN"
+        }
+      ],
+      "parent": {
+        "id": "0c350b10-5f2d-11e8-82bf-0fdcca8e1518",
+        "type": "COURSE",
+        "title": "Leading through Disruption",
+        "link": "https://notareal.percipio.url/cd/HkF1ikPlH3QN"
+      }
+    }
+  },
+  {
+    "id": "118c5720-b519-11e8-a111-01475a69a51b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/118c5720-b519-11e8-a111-01475a69a51b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership in the Digital Era",
+        "description": "<p>As companies tackle the transformation brought about by the digital era, leaders must embrace new technologies while guiding their teams through a rapidly changing future.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-10-17T13:12:08Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r14fYPLgSh7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/e927165a-e392-4887-a8a3-081d0cac1aa3/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M15S",
+    "by": [
+      "Dorie Clark"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "63456a58-3c55-4df0-acdb-3c9580a9b5e0",
+          "title": "The Digital Leader",
+          "link": "https://notareal.percipio.url/cd/B13rXvKpEnmE"
+        }
+      ],
+      "parent": {
+        "id": "3ce37880-72f3-11e8-a369-c1c5e7426ac9",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading in the Digital Era",
+        "link": "https://notareal.percipio.url/cd/S1VUyLeHhXV"
+      }
+    }
+  },
+  {
+    "id": "48cc7de0-5935-11e8-bac0-ad568657e451",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/48cc7de0-5935-11e8-bac0-ad568657e451",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Lessons",
+        "description": "<p>Smart leaders know how to coach through mistakes.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-07-10T14:32:59Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkfQg8HlS3XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/09612fd1-059a-4a0f-b91c-e0fb2b415537/image001.jpg",
+    "keywords": [],
+    "duration": "PT5M9S",
+    "by": [
+      "Paul Levy"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "21ae55b0-f739-11e8-b612-3366dbbf3cd8",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/21ae55b0-f739-11e8-b612-3366dbbf3cd8",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The 3 Ps of Leadership: People, Purpose, and Performance",
+        "description": "<p>The leadership model starts with meaningful work for the people entrusted to you. Then; to inspire the people you must give them a purpose. Finally; you’ve got to perform — create value for all stakeholders. You need all three: people; purpose; and performance.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-02-08T17:47:50Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJ0wPbTFPyB4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/01d1bb59-1a13-4ee3-b601-b1304cb6a4a0/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M8S",
+    "by": [
+      "Bob Chapman"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "17359e00-e718-11e6-9835-f723b46a2688",
+          "title": "Leading with Vision",
+          "link": "https://notareal.percipio.url/cd/rkOwekoaN3QE"
+        }
+      ],
+      "parent": {
+        "id": "27039430-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Leading with Vision",
+        "link": "https://notareal.percipio.url/cd/ryEKeYa0Nn74"
+      }
+    }
+  },
+  {
+    "id": "214e0591-d136-11e7-85c9-229182609c6f",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/214e0591-d136-11e7-85c9-229182609c6f",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Agile Leadership ",
+        "description": "<p>Leaders should try to create an organization that is agile, flexible, and resilient.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-02-15T14:34:41Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/S1PS4lxS2Q4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/5e0f78cf-14ee-4fdc-be61-f155ecab6827/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M56S",
+    "by": [
+      "Paul Levy"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "761d8660-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Agile Leader",
+          "link": "https://notareal.percipio.url/cd/r1uvbyc642Q4"
+        }
+      ],
+      "parent": {
+        "id": "72577d40-ce3e-11e7-845b-9d7d00b83945",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading with Agility",
+        "link": "https://notareal.percipio.url/cd/rk9HExernX4"
+      }
+    }
+  },
+  {
+    "id": "24f3a372-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f3a372-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Creating a Leadership Development Plan"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:46:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1meZUNRE274",
+    "imageUrl": "https://cdn2.percipio.com/public/b/460cfbfe-d322-450c-81d0-fa8fa47716ec/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M21S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f35551-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Assessing Your Own Leadership Performance",
+        "link": "https://notareal.percipio.url/cd/B14ebIVAV2QE"
+      }
+    }
+  },
+  {
+    "id": "24f3a370-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f3a370-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Preparing for a Leadership Development Plan"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:46:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rJge-LVCNhX4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/09053708-5f83-4886-a29d-a96259af9ad5/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M22S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f35551-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Assessing Your Own Leadership Performance",
+        "link": "https://notareal.percipio.url/cd/B14ebIVAV2QE"
+      }
+    }
+  },
+  {
+    "id": "14c82150-545a-11e8-bec9-135a121ada1b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/14c82150-545a-11e8-bec9-135a121ada1b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Adapting Your Leadership Style"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-09-26T13:56:49Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rk6Jv18lH3mV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/80389ecb-fdd0-4bf9-9b83-bf44b667c36c/image001.jpg",
+    "keywords": [],
+    "duration": "PT7M12S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0020eef1-162c-438c-a3c7-cd5f0ccfa6ed",
+          "title": "Cross-Cultural Leadership",
+          "link": "https://notareal.percipio.url/cd/BJo-gzUE27E"
+        }
+      ],
+      "parent": {
+        "id": "a41b3870-5459-11e8-bec9-135a121ada1b",
+        "type": "COURSE",
+        "title": "Leading across Cultures",
+        "link": "https://notareal.percipio.url/cd/SyVxPJUxH2m4"
+      }
+    }
+  },
+  {
+    "id": "24f35552-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f35552-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Self-assessment: Reflective Journaling"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:46:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/H10Ag8NRE2m4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/304d39ea-19f1-4d8f-acfa-3b21f4e40c87/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M27S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f35551-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Assessing Your Own Leadership Performance",
+        "link": "https://notareal.percipio.url/cd/B14ebIVAV2QE"
+      }
+    }
+  },
+  {
+    "id": "24f35554-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f35554-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Self-assessment: Surveys and Checklists"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:46:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Hy-yZLNC4hXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/e391645e-f288-4e92-9c23-2ea35a487498/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M31S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f35551-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Assessing Your Own Leadership Performance",
+        "link": "https://notareal.percipio.url/cd/B14ebIVAV2QE"
+      }
+    }
+  },
+  {
+    "id": "2beccf30-2903-11e7-b2c9-0242c0a80909",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/2beccf30-2903-11e7-b2c9-0242c0a80909",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Building a Leadership Development Plan"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/S1kOWI4REhXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/75931d10-31fa-11e7-803e-0242c0a80b05/image002.jpg",
+    "keywords": [],
+    "duration": "PT44S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "af3533f4-1625-11e7-904d-0242c0a8080b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/af3533f4-1625-11e7-904d-0242c0a8080b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Is About Behavior",
+        "description": "We judge ourselves by our intentions but we judge others by their behavior.  Others judge us by our behavior; not our intentions."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-26T23:32:26Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJFne9A43m4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/21fd47ae-7e96-4dff-b1fb-46f231f9058a/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M9S",
+    "by": [
+      "Peter Sheahan"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "af3533f3-1625-11e7-904d-0242c0a8080b",
+        "type": "COURSE",
+        "title": "Expert Insights on Intentions",
+        "link": "https://notareal.percipio.url/cd/ryG0eqA4hQ4"
+      }
+    }
+  },
+  {
+    "id": "ebdbeff0-290e-11e7-97d7-0242c0a8050b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/ebdbeff0-290e-11e7-97d7-0242c0a8050b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Gender and Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-24T11:43:00Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Skj5NlKA43XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/a139bc30-31fa-11e7-8870-0242c0a8050c/image002.jpg",
+    "keywords": [],
+    "duration": "PT41S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": {
+        "id": "5629ae9e-fea5-11e6-8638-0242c0a80b06",
+        "type": "COURSE",
+        "title": "Gender and Leadership",
+        "link": "https://notareal.percipio.url/cd/Sye34lY04n7N"
+      }
+    }
+  },
+  {
+    "id": "4b24fdfb-c958-11e7-8c81-9212ca48e307",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4b24fdfb-c958-11e7-8c81-9212ca48e307",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Accountable Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-13T11:57:03Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1DhNHlgrhXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/1549090c-0703-4e13-9f3a-6809c667a4f8/image001.jpg",
+    "keywords": [],
+    "duration": "PT59S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "63220ef0-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Accountable Leader",
+          "link": "https://notareal.percipio.url/cd/Bk6tbu1CVn7N"
+        }
+      ],
+      "parent": {
+        "id": "4b24fdfa-c958-11e7-8c81-9212ca48e307",
+        "type": "COURSE",
+        "title": "Accountable Leadership",
+        "link": "https://notareal.percipio.url/cd/HJqpNBxgrn7E"
+      }
+    }
+  },
+  {
+    "id": "8f38ed40-637b-11e8-8a5b-832c0ad27f62",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/8f38ed40-637b-11e8-8a5b-832c0ad27f62",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Vision",
+        "description": "<p>Being an authentic leader means envisioning your legacy and taking action now to realize tomorrow&#39;s dreams.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-06-10T16:36:47Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BkujRVxS2X4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/811062bc-9be6-4647-b94c-04eb8f96e6fc/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M30S",
+    "by": [
+      "Stew  Friedman"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "daa36e70-c3ff-11e7-bfa9-ef5e1a5e569f",
+          "title": "Leading Organizational Vision",
+          "link": "https://notareal.percipio.url/cd/r1UzMA_6VhmE"
+        }
+      ],
+      "parent": {
+        "id": "dfec29a0-ce3e-11e7-845b-9d7d00b83945",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading Vision",
+        "link": "https://notareal.percipio.url/cd/SJmyWEklrnmV"
+      }
+    }
+  },
+  {
+    "id": "24f30731-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f30731-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Outward Signs of Inspiring Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:44:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJx6x8EAE2XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/8c6e1254-0d68-403b-895f-2473e39e9378/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M51S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f30730-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Becoming an Inspirational Leader",
+        "link": "https://notareal.percipio.url/cd/SkL0g84RE3QE"
+      }
+    }
+  },
+  {
+    "id": "47d0b1a0-f268-11e8-a3f0-07dcf0c94ea9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/47d0b1a0-f268-11e8-a3f0-07dcf0c94ea9",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Tips for New Managers",
+        "description": "<p>Linda Hill offers several suggestions for new managers.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-12-28T19:27:13Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rko7dkdlr37E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/83567e83-9d3e-497d-8858-1e13a23f1d43/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M35S",
+    "by": [
+      "Linda Hill"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8946cec0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "First-Time Manager",
+          "link": "https://notareal.percipio.url/cd/rJa_eEOa42mE"
+        }
+      ],
+      "parent": {
+        "id": "270ff04a-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Being a First-time Manager",
+        "link": "https://notareal.percipio.url/cd/Bkn0OuKC4hQE"
+      }
+    }
+  },
+  {
+    "id": "24f18095-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f18095-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Achieving Leadership Objectives: Identifying Actions"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ByUPZIV04hm4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/1c37ab94-b56f-443b-9e07-3fe0cef6cc47/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M15S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/24f15984-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Building a Leadership Development Plan",
+        "description": "Explore how to assess yourself as a leader, establish a vision, and identify obstacles. Discover approaches for setting objectives, identifying appropriate actions, sustaining your leadership development plan, and evaluating your progress."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/7048af40-0500-11e7-b6c3-0242c0a80802/image008.jpg",
+    "keywords": [],
+    "duration": "PT23M51S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "5b1bd580-757e-11e8-b2d3-5d6d43ceef78",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5b1bd580-757e-11e8-b2d3-5d6d43ceef78",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "From Management to Inspirational Leadership",
+        "description": "<p>Managers can be efficient and effective; but as execution becomes less important; the next competitive advantage is to create new experiences for customers. That requires leaders who can inspire people to do what they want to do; not what the leader wants them to do.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-08-20T15:30:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJAbWASeH2XN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/0175cd78-02fe-4557-976e-b403dfb30211/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M",
+    "by": [
+      "Vineet Nayar"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0b8f072e-1ff2-4230-bc84-9592db2e4e93",
+          "title": "Leader Transitions",
+          "link": "https://notareal.percipio.url/cd/H1emeJqaV3QN"
+        }
+      ],
+      "parent": {
+        "id": "f3187ac0-72f2-11e8-a369-c1c5e7426ac9",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leader Transitions",
+        "link": "https://notareal.percipio.url/cd/By0zZCBgHhmN"
+      }
+    }
+  },
+  {
+    "id": "4de94ff0-75b0-11e8-88f0-59a58fbd883c",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4de94ff0-75b0-11e8-88f0-59a58fbd883c",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Cultural Differences: Good Leadership",
+        "description": "<p>The definition of good leadership varies across cultures. To get results; leaders of global teams need to stay informed and be flexible.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-09-28T16:57:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJfkZDLgSh7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/f16c3300-3c5e-41ac-ad3e-1b96481372b4/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M49S",
+    "by": [
+      "Erin Meyer"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0020eef1-162c-438c-a3c7-cd5f0ccfa6ed",
+          "title": "Cross-Cultural Leadership",
+          "link": "https://notareal.percipio.url/cd/BJo-gzUE27E"
+        }
+      ],
+      "parent": {
+        "id": "470cca00-72f3-11e8-a369-c1c5e7426ac9",
+        "type": "COURSE",
+        "title": "Leadership Insights on Leading Across Cultures",
+        "link": "https://notareal.percipio.url/cd/BkGebPUer3mE"
+      }
+    }
+  },
+  {
+    "id": "c7a8ecf0-2cf0-11e8-b1ef-51537209d9f5",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/c7a8ecf0-2cf0-11e8-b1ef-51537209d9f5",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "New Leadership Transitions",
+        "description": "<p>Employees enter leadership roles earlier and via different paths than in the past. In this course, you&#39;ll learn about common challenges that new leaders face, and some techniques for setting goals, building teams, and getting early wins.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-08-23T09:17:40Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rytDbRrlB2QN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/fff7e2f6-79d0-405e-b587-e457f6005aec/image001.jpg",
+    "keywords": [],
+    "duration": "PT57M49S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0b8f072e-1ff2-4230-bc84-9592db2e4e93",
+          "title": "Leader Transitions",
+          "link": "https://notareal.percipio.url/cd/H1emeJqaV3QN"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "5629aea9-fea5-11e6-8638-0242c0a80b06",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5629aea9-fea5-11e6-8638-0242c0a80b06",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Building Your Leadership Presence as a Woman"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-24T11:43:00Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1J3EetAVnXN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/00f9ebf7-8b26-466c-b4b6-5234148a848b/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M40S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": {
+        "id": "5629ae9e-fea5-11e6-8638-0242c0a80b06",
+        "type": "COURSE",
+        "title": "Gender and Leadership",
+        "link": "https://notareal.percipio.url/cd/Sye34lY04n7N"
+      }
+    }
+  },
+  {
+    "id": "24f15985-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f15985-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Development Planning: Assessing Yourself"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HyqLb8ERE3QE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/0891d65c-31d4-4932-971f-33954b6d57d8/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M18S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "cf269350-d9d6-11e7-a750-354cbb9bc2d5",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/cf269350-d9d6-11e7-a750-354cbb9bc2d5",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The Neuroscience of Leadership Resilience",
+        "description": "<p>Neuroscience teaches us to keep our resilience topped off so that we can overcome both the effects of our own stress and the effects our stress has on others.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-01-05T18:58:45Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJde5QAkHnmV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/0c78b967-f247-49c8-adae-531a880d0e30/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M56S",
+    "by": [
+      "Tara Swart"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "52bf2290-e71b-11e6-9835-f723b46a2688",
+          "title": "Resilience & Perseverance",
+          "link": "https://notareal.percipio.url/cd/ryXIbPTaN274"
+        }
+      ],
+      "parent": {
+        "id": "26df4359-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Resilience & Perseverance",
+        "link": "https://notareal.percipio.url/cd/Byqi4zRAVnXV"
+      }
+    }
+  },
+  {
+    "id": "24f32e45-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f32e45-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Persuading Audiences with Inspirational Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:44:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJM0x8VCEn7N",
+    "imageUrl": "https://cdn2.percipio.com/public/b/09f010ff-ea94-46df-8bb5-953e9d35460d/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M13S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f30730-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Becoming an Inspirational Leader",
+        "link": "https://notareal.percipio.url/cd/SkL0g84RE3QE"
+      }
+    }
+  },
+  {
+    "id": "d589ac60-290e-11e7-b2c9-0242c0a80909",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/d589ac60-290e-11e7-b2c9-0242c0a80909",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Assessing Your Own Leadership Performance"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:46:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SkFRgU4RE374",
+    "imageUrl": "https://cdn2.percipio.com/public/b/8c3bc729-ea75-4254-a48a-1b654ef1373b/image001.jpg",
+    "keywords": [],
+    "duration": "PT39S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f35551-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Assessing Your Own Leadership Performance",
+        "link": "https://notareal.percipio.url/cd/B14ebIVAV2QE"
+      }
+    }
+  },
+  {
+    "id": "a37f0150-753b-11e8-ba2a-25299775f9d3",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/a37f0150-753b-11e8-ba2a-25299775f9d3",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Achieving Gender Balance in Leadership Roles"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-11-27T13:24:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HyLZXPvlBh74",
+    "imageUrl": "https://cdn2.percipio.com/public/b/419d92c6-c059-4e4e-9016-e582e5c28d1d/image001.jpg",
+    "keywords": [],
+    "duration": "PT6M57S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "61f305ec-3452-4617-ae43-449496b482c9",
+          "title": "Women & Leadership",
+          "link": "https://notareal.percipio.url/cd/SJv6-vY6437N"
+        }
+      ],
+      "parent": {
+        "id": "577e37d0-753b-11e8-ba2a-25299775f9d3",
+        "type": "COURSE",
+        "title": "Developing Women Leaders",
+        "link": "https://notareal.percipio.url/cd/rk_z7wwgBhmN"
+      }
+    }
+  },
+  {
+    "id": "fee25b30-5459-11e8-bec9-135a121ada1b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/fee25b30-5459-11e8-bec9-135a121ada1b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Bridging Cultural Differences in Leadership Styles"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-09-26T13:56:49Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rywyv1Ilrh7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c3e78dc5-555c-47f4-93b4-2c6f662b5570/image001.jpg",
+    "keywords": [],
+    "duration": "PT10M10S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "0020eef1-162c-438c-a3c7-cd5f0ccfa6ed",
+          "title": "Cross-Cultural Leadership",
+          "link": "https://notareal.percipio.url/cd/BJo-gzUE27E"
+        }
+      ],
+      "parent": {
+        "id": "a41b3870-5459-11e8-bec9-135a121ada1b",
+        "type": "COURSE",
+        "title": "Leading across Cultures",
+        "link": "https://notareal.percipio.url/cd/SyVxPJUxH2m4"
+      }
+    }
+  },
+  {
+    "id": "24f15987-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f15987-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Development Planning: Establishing Vision"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkTIZL4RN2X4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/72115a52-31d2-4e5d-b693-40afea4f5d9c/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M3S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "26f626b0-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26f626b0-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership is About Humility and Empowering Others",
+        "description": "You can’t lead others if you’re not leading yourself first. Dan Labbad explains why humility and just being yourself are key traits of today’s top leaders."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/B1Ut_ba0V3Q4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/ef5ea769-d989-441d-b14e-f7a0a505f7bc/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M40S",
+    "by": [
+      "Dan Labbad"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "5629608a-fea5-11e6-8638-0242c0a80b06",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5629608a-fea5-11e6-8638-0242c0a80b06",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Developing Leaders: Leadership Theory"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T12:55:36Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/B1zdNTzAE2mE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/88e8bfdf-a881-4bc8-bad3-42212a1a5c4e/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M19S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "51f0a7c0-f91e-11e6-aad2-6b3c03be7fe8",
+          "title": "Talent Management",
+          "link": "https://notareal.percipio.url/cd/B1MHWwY6NnQ4"
+        },
+        {
+          "id": "42f582e0-f91e-11e6-aad2-6b3c03be7fe8",
+          "title": "Succession Planning",
+          "link": "https://notareal.percipio.url/cd/BkfpQ4da4nQE"
+        }
+      ],
+      "parent": {
+        "id": "56296087-fea5-11e6-8638-0242c0a80b06",
+        "type": "COURSE",
+        "title": "Building Career Development Programs and Succession Planning",
+        "link": "https://notareal.percipio.url/cd/r1mKNaz0V2mN"
+      }
+    }
+  },
+  {
+    "id": "24f1a7a3-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f1a7a3-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Evaluating Your Leadership Development Plan"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HknwZU40E2X4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/7048af40-0500-11e7-b6c3-0242c0a80802/image008.jpg",
+    "keywords": [],
+    "duration": "PT3M51S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "73323590-2d64-11e8-b45d-f3636a25487b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/73323590-2d64-11e8-b45d-f3636a25487b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Curiosity Is the A Priori Requirement for Leadership",
+        "description": "<p>Curiosity is the number one requirement of great leaders today.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-04-05T13:42:41Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1xSK3zlB3QV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/184d48af-918b-45ae-a7ee-b43be50ccc8d/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M12S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "26f20801-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Developing as a Leader",
+        "link": "https://notareal.percipio.url/cd/HJCOddFAEnQ4"
+      }
+    }
+  },
+  {
+    "id": "041050ba-c52c-40c4-8ad1-d9b50ae88082",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/041050ba-c52c-40c4-8ad1-d9b50ae88082",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Networking to Improve Leadership Effectiveness",
+        "description": "Effective networking is a leadership skill linked to stronger performance on the job. In this course, you’ll learn how to develop and expand your network to improve your own effectiveness, as well as that of others in your organization."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-02T18:13:32Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ryj4bHxlH2QN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/721f8caa-9fbb-42df-931c-4b3bd6c9c7ab/image001.jpg",
+    "keywords": [],
+    "duration": "PT42M33S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "55caaf00-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "Leadership Networking",
+          "link": "https://notareal.percipio.url/cd/HkNXbNdpN3QV"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "08d84ea0-cfea-11e7-a26c-aac61d4cf42f",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/08d84ea0-cfea-11e7-a26c-aac61d4cf42f",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Create an Environment for Leadership Development—Not a Program ",
+        "description": "<p>Developing leaders is a natural concept—like breathing air. We under-appreciate the environment and overvalue programs. Eliminate programs and focus on the environment.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-01-22T19:30:03Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1fHeEJxH2QV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/a6bf5170-cff6-11e7-a26c-aac61d4cf42f/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M14S",
+    "by": [
+      "David Marquet"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "c7de7ae0-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "Developing People",
+          "link": "https://notareal.percipio.url/cd/ByhFZd56V2mE"
+        }
+      ],
+      "parent": {
+        "id": "ac318470-ce3e-11e7-845b-9d7d00b83945",
+        "type": "COURSE",
+        "title": "Leadership Insights on Developing People",
+        "link": "https://notareal.percipio.url/cd/B1GLxVylrnXE"
+      }
+    }
+  },
+  {
+    "id": "270c46c1-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/270c46c1-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Expert Insights on Women in Leadership",
+        "description": "<p>Despite the closing gender gap, we still need more women in leadership. It’s not about balancing the scale; it’s about harnessing a powerful resource. Here’s why you want—and need—more women at the top.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-28T13:33:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkWWUzRA4nX4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/7c6df220-08c1-11e7-89ad-0242c0a80b08/image001.jpg",
+    "keywords": [],
+    "duration": "PT1H29M13S",
+    "by": [
+      "Belle Halpern",
+      "Sally Shankland",
+      "Rita Clifton",
+      "Rebecca Shambaugh",
+      "Kip Tindell",
+      "Joanna Barsh",
+      "Dorie Clark",
+      "Herminia  Ibarra",
+      "Mary Davis Holt",
+      "Kelly Watson",
+      "Monhla Hlahla",
+      "Liz O'Donnell",
+      "Paul Levy",
+      "Jodi Detjen",
+      "Gisele Shelley",
+      "Natalie Maroun"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "4b310bea-c958-11e7-8c81-9212ca48e307",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4b310bea-c958-11e7-8c81-9212ca48e307",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Process Owners and Project Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-02-09T01:13:39Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/B1sgOnylBn7N",
+    "imageUrl": "https://cdn2.percipio.com/public/b/0140a01a-7823-4f01-8a12-d2543ae4715c/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M56S",
+    "by": [],
+    "expertiseLevels": [
+      "INTERMEDIATE"
+    ],
+    "modalities": [
+      "WATCH"
+    ],
+    "technologies": [
+      {
+        "title": "Six Sigma",
+        "version": "Yellow Belt"
+      }
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "41f01560-2121-11e7-ac46-dd5c3d0e46dd",
+          "title": "Six Sigma",
+          "link": "https://notareal.percipio.url/cd/r1MLMwFpNnQV"
+        },
+        {
+          "id": "ccfb2291-2120-11e7-ac46-dd5c3d0e46dd",
+          "title": "Quality Management",
+          "link": "https://notareal.percipio.url/cd/HyIHeg0aN274"
+        },
+        {
+          "id": "36cb2ded-a97f-4a57-9c01-b141f211848a",
+          "title": "Six Sigma Certification",
+          "link": "https://notareal.percipio.url/cd/ByLKo21erhXE"
+        }
+      ],
+      "parent": {
+        "id": "4b30bdc7-c958-11e7-8c81-9212ca48e307",
+        "type": "COURSE",
+        "title": "Six Sigma: Identifying Projects",
+        "link": "https://notareal.percipio.url/cd/r18Zu3yxS37V"
+      }
+    }
+  },
+  {
+    "id": "26fa6c72-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26fa6c72-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Is About Serving Your People",
+        "description": "No matter how much great advice you give; what people remember and respond to is how you treat them."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-27T19:25:19Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rJ82_-pC4nmN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/a1add7d9-7afa-4bdc-b6cc-bc8cb4524908/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M6S",
+    "by": [
+      "Kelly Thompson"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "26f5ffa3-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Experts Insights on Leadership Foundations",
+        "link": "https://notareal.percipio.url/cd/Hyx6ub6042QN"
+      }
+    }
+  },
+  {
+    "id": "1eab7b00-b3fa-11e7-8d83-16b90c8be2ea",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/1eab7b00-b3fa-11e7-8d83-16b90c8be2ea",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership and Negotiation Skills"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-11-12T00:10:07Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/S1wOof2JHn7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/9cdfae00-b94b-11e7-8eee-1a67cef39ad4/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M1S",
+    "by": [
+      "Marie  Bankuti"
+    ],
+    "expertiseLevels": [
+      "INTERMEDIATE"
+    ],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "98c5b560-9e22-11e7-b36b-e758691dfee8",
+          "title": "Certified Business Analysis Professional (CBAP®)",
+          "link": "https://notareal.percipio.url/cd/rkeVQuyCE27N"
+        },
+        {
+          "id": "dafae750-e713-11e6-9835-f723b46a2688",
+          "title": "Analytics",
+          "link": "https://notareal.percipio.url/cd/BJfZeeR6N2Q4"
+        }
+      ],
+      "parent": {
+        "id": "857e3940-b3f9-11e7-b1cc-ff9dda7865db",
+        "type": "COURSE",
+        "title": "Personal Skills for Effective Business Analysis",
+        "link": "https://notareal.percipio.url/cd/Sk3FoM31rhQV"
+      }
+    }
+  },
+  {
+    "id": "5629d5a6-fea5-11e6-8638-0242c0a80b06",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/5629d5a6-fea5-11e6-8638-0242c0a80b06",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Balancing Your Leadership Approach as a Woman"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T12:55:37Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ByCiN6zA4n7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/dc32f9b7-c393-4f1f-abee-60c8371374ac/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M24S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": {
+        "id": "5629aeaa-fea5-11e6-8638-0242c0a80b06",
+        "type": "COURSE",
+        "title": "Choosing to Lead as a Woman",
+        "link": "https://notareal.percipio.url/cd/H113EpzRNhXN"
+      }
+    }
+  },
+  {
+    "id": "19051010-f24b-11e6-bb2f-0242c0a80b05",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/book/19051010-f24b-11e6-bb2f-0242c0a80b05",
+    "contentType": {
+      "percipioType": "BOOK",
+      "category": "BOOK",
+      "displayLabel": "Book"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Monday Morning Leadership",
+        "description": "Everyone likes a good story, especially if there are lessons that can be immediately applied to life. This book is one of those stories &#8211; about a manager and his mentor.  Monday Morning Leadership offers unique encouragement and direction that will help you become a better manager, employee and person.    About the Author   David Cottrell, President and CEO of CornerStone Leadership Institute, is an internationally-known leadership consultant, educator, and speaker. His business experience includes senior management positions with Xerox and FedEx. He also led the successful turn-around of a chapter eleven company before founding CornerStone.  David's 25-plus years of professional experience are reflected in eleven highly acclaimed books and his reputation as a premier public speaker. David has been a featured expert on public television and has presented his leadership message to over 25,000 managers worldwide.  "
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2002-11-12T04:00:00Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rym_wa6N2mN",
+    "imageUrl": "https://images.books24x7.com/coverimages/9184.gif",
+    "keywords": [],
+    "duration": "PT1H",
+    "by": [
+      "David Cottrell"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "READ"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [],
+      "parent": null
+    }
+  },
+  {
+    "id": "f432fcb5-1bcc-11e7-b15b-0242c0a80b07",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/f432fcb5-1bcc-11e7-b15b-0242c0a80b07",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Examining Leadership Concerns"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-05-01T15:19:57Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rJoF9VeJr2mV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b6868246-aba1-4243-aee8-8dc247fa7517/image001.jpg",
+    "keywords": [],
+    "duration": "PT5M17S",
+    "by": [
+      "Richard Heimann"
+    ],
+    "expertiseLevels": [
+      "BEGINNER"
+    ],
+    "modalities": [
+      "WATCH"
+    ],
+    "technologies": [
+      {
+        "title": "Big Data",
+        "version": null
+      }
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "e5b57bd1-1e07-11e7-985b-77e692128391",
+          "title": "Big Data Core Concepts",
+          "link": "https://notareal.percipio.url/cd/Skqy7O5pEhQE"
+        }
+      ],
+      "parent": {
+        "id": "f432d5b1-1bcc-11e7-b15b-0242c0a80b07",
+        "type": "COURSE",
+        "title": "Strategic Planning",
+        "link": "https://notareal.percipio.url/cd/BJ0c9Eg1B2QE"
+      }
+    }
+  },
+  {
+    "id": "4abe96b2-9a13-11e7-981c-e6485196e111",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4abe96b2-9a13-11e7-981c-e6485196e111",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Senior Leadership and Stakeholder Communication"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-10-11T14:45:07Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/r1Eu8xikHnXE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/43567353-4134-4421-b34e-37af3498d102/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M38S",
+    "by": [
+      "Michael Shannon"
+    ],
+    "expertiseLevels": [
+      "INTERMEDIATE"
+    ],
+    "modalities": [
+      "WATCH"
+    ],
+    "technologies": [
+      {
+        "title": "CISM",
+        "version": null
+      }
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "86e311d0-9c7e-11e7-ba6b-e15f120286ac",
+          "title": "Information Security Manager",
+          "link": "https://notareal.percipio.url/cd/HyZJGxgCEhmV"
+        },
+        {
+          "id": "8bee2760-9a3e-11e7-a9e6-4b9b059e2215",
+          "title": "Certified Information Security Manager (CISM)",
+          "link": "https://notareal.percipio.url/cd/SJUcvu5JS27E"
+        }
+      ],
+      "parent": {
+        "id": "4abe6fa9-9a13-11e7-981c-e6485196e111",
+        "type": "COURSE",
+        "title": "Information Security Governance Part II",
+        "link": "https://notareal.percipio.url/cd/rJZ58xsyrnXN"
+      }
+    }
+  },
+  {
+    "id": "0f19e1c0-0b4a-11e8-9ba8-bf95a77a7703",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/0f19e1c0-0b4a-11e8-9ba8-bf95a77a7703",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The 5 Levels of Leadership: Q&A"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-20T20:14:24Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Hy37M2GgHhm4",
+    "imageUrl": "https://cdn2.percipio.com/public/b/d5de315a-b9d8-4211-8116-7ce95886f181/image001.jpg",
+    "keywords": [],
+    "duration": "PT9M41S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "f0d60cc2-94bf-4ce9-b37f-3bbafbf8d795",
+          "title": "Live Events",
+          "link": "https://notareal.percipio.url/cd/HyNzfPKpV274"
+        }
+      ],
+      "parent": {
+        "id": "dfc8d930-ffcd-11e7-bcae-15c4c1c07d67",
+        "type": "COURSE",
+        "title": "2017 Live Events",
+        "link": "https://notareal.percipio.url/cd/HJ34GnflHhmN"
+      }
+    }
+  },
+  {
+    "id": "3861c5e0-f274-11e8-a3f0-07dcf0c94ea9",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/3861c5e0-f274-11e8-a3f0-07dcf0c94ea9",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership Is Personal: The Ron Sugar Story",
+        "description": "<p>When it was his turn to speak at a conference; the Chairman and CEO of Northrop Grumman started by playing the piano. He explained that people should know who you are; what you care about (such as playing the piano); and why they should follow you.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2019-01-29T17:05:59Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJaTgfOz0mN",
+    "imageUrl": "https://cdn2.percipio.com/public/b/4431ce14-2497-45b4-ab4e-bed718760708/image001.jpg",
+    "keywords": [],
+    "duration": "PT4M4S",
+    "by": [
+      "Jim Kouzes"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "f6bdb290-f917-11e6-aad2-6b3c03be7fe8",
+          "title": "Discovering Your Strengths",
+          "link": "https://notareal.percipio.url/cd/rkzaGVuT42XN"
+        }
+      ],
+      "parent": {
+        "id": "af553f12-1625-11e7-904d-0242c0a8080b",
+        "type": "COURSE",
+        "title": "Expert Insights on Discovering Your Strengths",
+        "link": "https://notareal.percipio.url/cd/Bk5Xx50Vn74"
+      }
+    }
+  },
+  {
+    "id": "24f1a7a1-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f1a7a1-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Achieving Leadership Objectives: Sustaining the Plan"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:54:12Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJKwW8E04n7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/363664eb-2f34-4b2e-a86f-af4f4e311978/image001.jpg",
+    "keywords": [],
+    "duration": "PT3M10S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "8c068380-e717-11e6-9835-f723b46a2688",
+          "title": "Leadership Foundations",
+          "link": "https://notareal.percipio.url/cd/Hk7c7D0TNhXV"
+        }
+      ],
+      "parent": {
+        "id": "24f15984-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Building a Leadership Development Plan",
+        "link": "https://notareal.percipio.url/cd/HkxOWIECVnmE"
+      }
+    }
+  },
+  {
+    "id": "78eaa3a0-f3cc-11e6-adc4-0242c0a80902",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/book/78eaa3a0-f3cc-11e6-adc4-0242c0a80902",
+    "contentType": {
+      "percipioType": "BOOK",
+      "category": "BOOK",
+      "displayLabel": "Book"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "For the Practicing Manager: Managing Leadership Stress",
+        "description": "Everyone experiences stress, and leaders face the additional stress brought about by the unique demands of leadership: having to make decisions with limited information, to manage conflict, to do more with less . . . and faster! The consequences of stress can include health problems and deteriorating relationships. Knowing what signs of stress to look for and having a strategy for increasing your resources will help you manage leadership stress and be more effective over a long career.    About the Authors  Vidula Bal is a senior enterprise associate at the Colorado Springs campus of the Center for Creative Leadership. She facilitates a variety of open-enrollment programs, designs and delivers custom programs, and conducts research on stress, power, and team effectiveness. She holds a Ph.D. in communication from the University of Texas at Austin. Michael Campbell is a senior research analyst at CCL&#8217;s Colorado Springs campus. He conducts research on talent management and succession management, and manages CCL&#8217;s leadership assessment database. He holds a B.S. in business and marketing from the University of Colorado at Colorado Springs. Sharon McDowell-Larsen is a senior associate and exercise physiologist at CCL&#8217;s Colorado Springs campus. She manages the Fitness for Leadership module of CCL&#8217;s Leadership at the Peak program and does research on the exercise habits and effectiveness of senior executives. She holds an M.A. and Ph.D. in exercise physiology from the University of Nebraska&#8211;Lincoln. "
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2008-07-15T04:00:00Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/SJ-ulFlCEh74",
+    "imageUrl": "https://images.books24x7.com/coverimages/26369.gif",
+    "keywords": [],
+    "duration": "PT20M",
+    "by": [
+      "Michael Campbell",
+      "Vidula Bal",
+      "Sharon McDowell-Larsen"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "READ"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [],
+      "parent": null
+    }
+  },
+  {
+    "id": "5629ae9e-fea5-11e6-8638-0242c0a80b06",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/5629ae9e-fea5-11e6-8638-0242c0a80b06",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Gender and Leadership",
+        "description": "This course examines the issues facing women leaders and how to change your personal views to help overcome these issues, including why gender still matters. You'll also learn how to develop competence, confidence, and a personal brand."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-24T11:43:00Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/Sye34lY04n7N",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c0b4eb60-050f-11e7-89ad-0242c0a80b08/image008.jpg",
+    "keywords": [],
+    "duration": "PT18M57S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b7fc0a0-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Women in Leadership",
+          "link": "https://notareal.percipio.url/cd/ry6lggCa4n7V"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "fe73c3e0-31c8-11e8-8ce8-e7e71c48b61b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/fe73c3e0-31c8-11e8-8ce8-e7e71c48b61b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Leadership in the Digital Era: Q&A",
+        "description": "<p>Charlene Li is joined by host ,Tracey Matisak, and answers some of our viewer&#39;s questions.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-04-25T10:16:35Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/rycRvSQeH2XV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/5bab8da1-ce8f-4944-91b8-eedc6ce43046/image006.jpg",
+    "keywords": [],
+    "duration": "PT18M29S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "f0d60cc2-94bf-4ce9-b37f-3bbafbf8d795",
+          "title": "Live Events",
+          "link": "https://notareal.percipio.url/cd/HyNzfPKpV274"
+        }
+      ],
+      "parent": {
+        "id": "0cfc0410-2d26-11e8-b86e-cfe0050b7a70",
+        "type": "COURSE",
+        "title": "2018 Live Events",
+        "link": "https://notareal.percipio.url/cd/rylyOBmgHn74"
+      }
+    }
+  },
+  {
+    "id": "af5b5993-1625-11e7-904d-0242c0a8080b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/af5b5993-1625-11e7-904d-0242c0a8080b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Transitional Leadership",
+        "description": "To avoid being left behind; you \r\nneed to evolve your job; \r\nespecially as the environment \r\nchanges. You also need to evolve \r\nyour external network; so you’re \r\nin touch with what’s happening. \r\nAnd you need to evolve yourself \r\nas a leader."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-25T15:47:41Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJyi8uFCNhQE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/1fdf44a6-bdac-47da-bf6a-48400a0e806f/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M49S",
+    "by": [
+      "Herminia  Ibarra"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "aca6bac0-e71b-11e6-9835-f723b46a2688",
+          "title": "Managing Yourself",
+          "link": "https://notareal.percipio.url/cd/BypngJi6Vhm4"
+        }
+      ],
+      "parent": {
+        "id": "af5b5992-1625-11e7-904d-0242c0a8080b",
+        "type": "COURSE",
+        "title": "Expert Insights on Managing Yourself",
+        "link": "https://notareal.percipio.url/cd/BkfhUutANhmV"
+      }
+    }
+  },
+  {
+    "id": "1b944c20-5f31-11e8-82bf-0fdcca8e1518",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/1b944c20-5f31-11e8-82bf-0fdcca8e1518",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Developing Motivational Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-11-21T15:54:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJeL-PPxr3QV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/acde8315-4cc2-426f-af4d-5a727c154499/image001.jpg",
+    "keywords": [],
+    "duration": "PT9M14S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "3b0712bc-86b3-42b3-950b-65d0fc50cf6c",
+          "title": "Leader as Motivator",
+          "link": "https://notareal.percipio.url/cd/rybTbVOaNn74"
+        }
+      ],
+      "parent": {
+        "id": "db083fe0-5f30-11e8-82bf-0fdcca8e1518",
+        "type": "COURSE",
+        "title": "Leading through Motivation",
+        "link": "https://notareal.percipio.url/cd/HkPLbDPxB3mN"
+      }
+    }
+  },
+  {
+    "id": "26eeaca2-05cd-11e7-b6c3-0242c0a80802",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/26eeaca2-05cd-11e7-b6c3-0242c0a80802",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "The ROI of Creating a People-Centric Leadership Model",
+        "description": "Based on Stern Stewart economic value added (EVA) analysis; their annual shareholder value has grown 15 percent-plus since 1988. When you give people an inspiring vision; responsible freedom; and celebration along the way you get exception results."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-04-26T02:08:08Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HkfSddtAVnmV",
+    "imageUrl": "https://cdn2.percipio.com/public/b/7c6683bb-645d-4be4-9a4c-0f9befa37fde/image001.jpg",
+    "keywords": [],
+    "duration": "PT2M30S",
+    "by": [
+      "Bob Chapman"
+    ],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "98459290-f913-11e6-aad2-6b3c03be7fe8",
+          "title": "Accountability",
+          "link": "https://notareal.percipio.url/cd/SJEHXA_pVn7V"
+        }
+      ],
+      "parent": {
+        "id": "26eeaca1-05cd-11e7-b6c3-0242c0a80802",
+        "type": "COURSE",
+        "title": "Expert Insights on Accountability",
+        "link": "https://notareal.percipio.url/cd/SJu8OOKRE2QV"
+      }
+    }
+  },
+  {
+    "id": "4b24fdfa-c958-11e7-8c81-9212ca48e307",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/course/4b24fdfa-c958-11e7-8c81-9212ca48e307",
+    "contentType": {
+      "percipioType": "COURSE",
+      "category": "COURSE",
+      "displayLabel": "Course"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Accountable Leadership",
+        "description": "Accountability is about taking ownership of your own actions, and it&#39;s key to your organization&#39;s success. In this course, you&#39;ll learn how to foster and determine accountability, in your workplace, your team, and yourself."
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-13T11:57:03Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJqpNBxgrn7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/56a210f5-495b-4d38-be0f-2b6ce7d701f3/image001.jpg",
+    "keywords": [],
+    "duration": "PT42M51S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "63220ef0-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "The Accountable Leader",
+          "link": "https://notareal.percipio.url/cd/Bk6tbu1CVn7N"
+        }
+      ],
+      "parent": null
+    }
+  },
+  {
+    "id": "3bd01370-5a82-11e7-ae20-ceb650f9130b",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/3bd01370-5a82-11e7-ae20-ceb650f9130b",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Cultural Differences: Good Leadership",
+        "description": "<p>The definition of good leadership varies across cultures. To get results, leaders of global teams need to stay informed and be flexible.</p>"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-07-27T16:40:09Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/BJtUxdYkr27V",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b8b646f8-77e5-4637-933f-78a54eaceeae/image001.jpg",
+    "keywords": [],
+    "duration": "PT1M49S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "b2198d60-f914-11e6-aad2-6b3c03be7fe8",
+          "title": "Cross-Cultural Management",
+          "link": "https://notareal.percipio.url/cd/SkGCZiP6E27E"
+        }
+      ],
+      "parent": {
+        "id": "dd4afe50-5a81-11e7-8363-b54af14e6b31",
+        "type": "COURSE",
+        "title": "Expert Insights on Managing a Culturally Diverse Team",
+        "link": "https://notareal.percipio.url/cd/ryxwldFyBhXV"
+      }
+    }
+  },
+  {
+    "id": "24f32e43-e4b1-11e6-a792-0242c0a80b09",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/24f32e43-e4b1-11e6-a792-0242c0a80b09",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Creating Clear and Credible Leadership Messages"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2017-03-21T18:44:51Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/ryyRgIVCVh7E",
+    "imageUrl": "https://cdn2.percipio.com/public/b/c4d3c6a0-0508-11e7-ac6e-0242c0a80904/image007.jpg",
+    "keywords": [],
+    "duration": "PT2M39S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "5b190810-e717-11e6-9835-f723b46a2688",
+          "title": "Developing as a Leader",
+          "link": "https://notareal.percipio.url/cd/HJSFmDaT4nXN"
+        }
+      ],
+      "parent": {
+        "id": "24f30730-e4b1-11e6-a792-0242c0a80b09",
+        "type": "COURSE",
+        "title": "Becoming an Inspirational Leader",
+        "link": "https://notareal.percipio.url/cd/SkL0g84RE3QE"
+      }
+    }
+  },
+  {
+    "id": "4b2461b9-c958-11e7-8c81-9212ca48e307",
+    "xapiActivityId": "https://xapi.percipio.com/xapi/video/4b2461b9-c958-11e7-8c81-9212ca48e307",
+    "contentType": {
+      "percipioType": "VIDEO",
+      "category": "VIDEO",
+      "displayLabel": "Video"
+    },
+    "localeCodes": [
+      "en"
+    ],
+    "localizedMetadata": [
+      {
+        "localeCode": "en",
+        "title": "Critical Thinking and Leadership"
+      }
+    ],
+    "lifecycle": {
+      "status": "ACTIVE",
+      "publishDate": "2018-03-13T11:52:38Z",
+      "lastUpdatedDate": null
+    },
+    "link": "https://notareal.percipio.url/cd/HJloNBexSnmE",
+    "imageUrl": "https://cdn2.percipio.com/public/b/b92f841e-02a2-4866-b5ab-f8b5d59cd9f3/image001.jpg",
+    "keywords": [],
+    "duration": "PT6M51S",
+    "by": [],
+    "expertiseLevels": [],
+    "modalities": [
+      "WATCH"
+    ],
+    "associations": {
+      "areas": [],
+      "subjects": [],
+      "channels": [
+        {
+          "id": "42db1e70-c400-11e7-bfa9-ef5e1a5e569f",
+          "title": "Thinking Critically",
+          "link": "https://notareal.percipio.url/cd/BkLbgd5pV27E"
+        }
+      ],
+      "parent": {
+        "id": "4b2461b6-c958-11e7-8c81-9212ca48e307",
+        "type": "COURSE",
+        "title": "Developing Your Critical Thinking and Cognitive Flexibility",
+        "link": "https://notareal.percipio.url/cd/SkXhVBllrnm4"
+      }
+    }
+  }
+]
