@@ -1,117 +1,223 @@
 $.(
-			$plaintextdescription := (
-					$htmltags := /<\/?([a-z0-9]*)\b[^>]*>?/;
-					$dash := /&(#8210;|#8211;|#8212;|#8213;|ndash;|mdash;|horbar;)/;
-					$apos := /&(#8217;|apos;|rsquo;)/;
-					$copy := /&(#169;|copy;)/;
-					$tm := /&(#8482;|trade;)/;
-					$registered := /&(#174;|reg;)/;
-					$otherentities :=  /&(#?[\w\d]+;)/;
+	$plainstring := function($source) {(
+		$htmltags := /<\/?([a-z0-9]*)\b[^>]*>?/;
+		$dash := /[\u2010\u2013\u2014\u2015]|&(#8210;|#8211;|#8212;|#8213;|hyphen|dash|ndash;|mdash;|horbar;)/;
+		$apos := /&(#8217;|apos;|rsquo;)/;
+		$copy := /[\u00A9]|&(#169;|copy;)/;
+		$tm := /[\u2122]|&(#8482;|trade;)/;
+		$registered := /[\u00AE]|&(#174;|reg;)/;
+		$curylydoublequotes := /[\u201C\u201D\u201E\u201F\u2033\u2036]|&(ldquo;|rdquo;)/;
+		$pipe:= /[\u007c]|&(verbar;|vert;|VerticalLine;)/;
+		$otherentities := /&(#?[\w\d]+;)/;
 
-					$desc := localizedMetadata[0].description ? $trim(localizedMetadata[0].description) : '';
-					$desc := $replace($desc, $htmltags, '');
-					$desc := $replace($desc, $dash, '-');
-					$desc := $replace($desc, $copy, '(c)');
-					$desc := $replace($desc, $registered, '(r)');
-					$desc := $replace($desc, $tm, '(tm)');
-					$desc := $replace($desc, $apos, $base64decode('Jw=='));
-					$desc := $replace($desc, $otherentities, '');
+		$result := $source ? $trim($source) : '';
+		$result := $replace($result, $pipe, '-');
+		$result := $replace($result, $htmltags, '');
+		$result := $replace($result, $dash, '-');
+		$result := $replace($result, $copy, '(c)');
+		$result := $replace($result, $registered, '(r)');
+		$result := $replace($result, $tm, '(tm)');
+		$result := $replace($result, $apos, $base64decode('Jw=='));
+		$result := $replace($result, $curylydoublequotes, '"');
 
-					$desc;
-			);
+		$result := $replace($result, $otherentities, '');
+		$result;
+	)};
 
-			$trimmedplaintextdescription := (
-					$maxlength := 3999;
-					$ellipsis := '...';
-                    $trimlength := $maxlength - $length($ellipsis);
+	$ellipsis:= function($source,$maxlength,$ellipsisString) {(
+		$wordboundary := /\s(\w+)$/;
+		$trimlength := $maxlength - $length($ellipsisString);
 
-					$trimmedplaintextdescription := ($length($plaintextdescription) > $maxlength) ? $substring($plaintextdescription , 0, $trimlength) & $ellipsis : $plaintextdescription;
-					$trimmedplaintextdescription;
-			);
+		$needtrim := ($length($source) > $maxlength);
+		$trimmedSource := $needtrim ? $trim($substring($source, 0, $trimlength));
 
-			$title := (
-					$title := '(' & contentType.displayLabel & ') ' & $replace((localizedMetadata[0].title), '|', '-');
-					$title;
-			);
+		$trimmedSource := $replace($trimmedSource, $wordboundary, '') & $ellipsisString;
+		$needtrim ? $trimmedSource : $source; 
+	)};
 
-			$trimmedtitle := (
-					$maxlength := 300;
-					$ellipsis := '...';
-                    $trimlength := $maxlength - $length($ellipsis);
+	$isodurationtoseconds:= function($isoduration) {(
+		$input := $isoduration = null ? '' : $isoduration;
+		$time := $substringAfter($input, 'T');
+		$hours := $contains($time, 'H') ? $substringBefore($time, 'H') : '0';
+		$remainder := $substringAfter($time, 'H');
+		$minutes := $contains($remainder, 'M') ? $substringBefore($remainder, 'M') : '0';
+		$remainder := $substringAfter($remainder, 'M');
+		$seconds := $contains($remainder, 'S') ? $substringBefore($remainder, 'S') : '0';
 
-					$trimmedtitle := ($length($title) > $maxlength) ? $substring($title, 0, $trimlength) & $ellipsis : $title;
-					$trimmedtitle;
-			);
+		$result := (($number($hours) * 3600) + ($number($minutes) * 60) + $number($seconds));
+		$result;
+	)};
+    
+  $isodurationtominutes:= function($isoduration, $precision) {(
+		$seconds := $isodurationtoseconds($isoduration);
+		$prec:= $exists($precision) ? $precision : 2;
+		$result := $seconds = 0 ? 0 : $round($seconds / 60, $prec);
+		$result;
+	)};
 
-			$duration_in_seconds := (
-				$input := (duration = null ? '' : duration);
-				$time := $substringAfter($input, 'T');
-				$hours := $contains($time, 'H') ? $substringBefore($time, 'H') : '0';
-				$remainder := $substringAfter($time, 'H');
-				$minutes := $contains($remainder, 'M') ? $substringBefore($remainder, 'M') : '0';
-				$remainder := $substringAfter($remainder, 'M');
-				$seconds := $contains($remainder, 'S') ? $substringBefore($remainder, 'S') : '0';
+	$isodurationtohours:= function($isoduration, $precision) {(
+		$seconds := $isodurationtoseconds($isoduration);
+		$prec:= $exists($precision) ? $precision : 2;
+		$result := $seconds = 0 ? 0 : $round($seconds / 3600, $prec);
+		$result;
+	)};
+    
+	$title300 := (
+    	$ellipsis($plainstring(localizedMetadata[0].title),300,' ...');
+	);
 
-				$result := (($number($hours) * 3600) + ($number($minutes) * 60) + $number($seconds));
-				$result;
-			);
+	$description2000 := (
+    	$ellipsis($plainstring(localizedMetadata[0].description),2000,' ...');
+	);
 
-			$duration_in_hours := (
-				$decplaces := 2;
-				$result := $duration_in_seconds = 0 ? 0 : $round($duration_in_seconds / 3600, $decplaces);
-				$result;
-			);
+	$associationsAreas := (
+		$source := associations.areas;
+		$columnprefix := 'AREA';
+		$maxCount := 10;
 
-			$transformed_data := (
-          $.{
-              'CPNT_ID': id,
-              'CPNT_TYP_ID': 'ONLINE',
-              'NOTACTIVE': lifecycle.status = 'ACTIVE' ? 'N' : 'Y',
-              'CPNT_TITLE': $trimmedtitle,
-              'CPNT_DESC': $trimmedplaintextdescription,
-              'CMPL_STAT_ID': 'ONLINE-COMPL',
-              'CREDIT_HRS': $duration_in_hours,
-              'SHOW_IN_CATALOG': 'Y',
-              'CATALOG_1': 'EXTERNAL',
-              'APP_ID': id,
-              'APP_TITLE': $trimmedtitle,
-              'APP_DESCRIPTION' : $trimmedplaintextdescription,
-              'BUILD_COMPANY': 'Skillsoft',
-              'CONTENT_ONLINE': 'Y',
-              'LAUNCH_TYPE': 3,
-              'PRIMARY_PARAM': link,
-              'ITEM_ONLINE': 'Y',
-              'MODULE_NAME': $trimmedtitle,
-              'THUMBNAIL_URI': imageUrl = null ? '' : imageUrl,
-              'LOCALE': $lookup(
-                  [{
-                          'en-US': 'English',
-                          'en': 'English',
-                          'fr': 'French',
-                          'fr-FR': 'French',
-                          'de': 'German',
-                          'de-DE': 'German',
-                          'es': 'Spanish',
-                          'es-DO': 'Spanish'
-                      }
-                  ],
-                  (localizedMetadata[0].localeCode ? localizedMetadata[0].localeCode : 'English')
-              ),
-              'LAUNCH_IN_A_NEW_BWSR_WINDOW': 'Y',
-              'REV_DTE': (
-                      $ms:= lifecycle.lastUpdatedDate ? $toMillis(lifecycle.lastUpdatedDate) : null;
-                      $ms ? $fromMillis($ms, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null;
-                  ),
-              'CPNT_SRC_ID': contentType.'source' = null ? '' : contentType.'source',
-              'CREATE_DTE': (
-                      $ms1:= lifecycle.publishDate ? $toMillis(lifecycle.publishDate) : null;
-                          $ms1 ? $fromMillis($ms1, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null;
-                  ),
-              'CONTACT_HRS': $duration_in_hours,
-              'ENABLE_MOBILE_ACCESS': true,
-              'MOBILE_PRIMARY_PARAM': link
-          }
-        );
+		$padarray := [1..$maxCount].('');
+		$sourceArray := $count($source)=0 ? [] : [];
+			   
+		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
+				$v ? $trim($v) : ''
+		}));
 
-		$transformed_data;
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$v != ''
+		});
+
+		$sourceArray := $append($sourceArray, $padarray);
+	
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$i < $maxCount
+		});
+
+		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
+				$columnprefix & ($i + 1) & '~|~' & $v
+		});
+
+		$sourceArrayDelimited.{
+				$substringBefore('~|~'): $substringAfter('~|~')
+		}
+	);
+
+	$associationsSubjects := (
+		$source := associations.subjects;
+		$columnprefix := 'SUBJECTS';
+		$maxCount := 10;
+
+		$padarray := [1..$maxCount].('');
+		$sourceArray := $count($source)=0 ? [] : [];
+			   
+		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
+				$v ? $trim($v) : ''
+		}));
+
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$v != ''
+		});
+
+		$sourceArray := $append($sourceArray, $padarray);
+	
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$i < $maxCount
+		});
+
+		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
+				$columnprefix & ($i + 1) & '~|~' & $v
+		});
+
+		$sourceArrayDelimited.{
+				$substringBefore('~|~'): $substringAfter('~|~')
+		}
+	);
+
+	$associationsChannels := (
+		$source := associations.channels;
+		$columnprefix := 'CHANNELS';
+		$maxCount := 10;
+
+		$isChannelResult := contentType.percipioType = 'CHANNEL' ?  [ $trim(id) & '|' & $trim(localizedMetadata[0].title) ] : [];
+
+		$padarray := [1..$maxCount].('');
+		$sourceArray := $count($source)=0 ? [] : [];
+			   
+		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
+				$v ? $trim($v.id) & '|' & $trim($v.title) : ''
+		}));
+
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$v != ''
+		});
+
+		$sourceArray := $count($sourceArray)=0 ? $isChannelResult : $sourceArray;
+
+		$sourceArray := $append($sourceArray, $padarray);
+	
+		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+				$i < $maxCount
+		});
+
+		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
+				$columnprefix & ($i + 1) & '~|~' & $v
+		});
+
+		$sourceArrayDelimited.{
+				$substringBefore('~|~'): $substringAfter('~|~')
+		}
+	);
+
+	$transformed_data := (
+		$.{
+		'CPNT_ID': id,
+		'CPNT_TYP_ID': 'ONLINE',
+		'NOTACTIVE': lifecycle.status = 'ACTIVE' ? 'N' : 'Y',
+		'CPNT_TITLE': $title300,
+		'CPNT_DESC': $description2000,
+		'CMPL_STAT_ID': 'ONLINE-COMPL',
+		'CREDIT_SECONDS': $isodurationtoseconds(duration),
+		'CREDIT_MINUTES': $isodurationtominutes(duration),
+		'CREDIT_HRS': $isodurationtohours(duration),
+		'SHOW_IN_CATALOG': 'Y',
+		'CATALOG_1': 'EXTERNAL',
+		'APP_ID': id,
+		'APP_TITLE': $title300,
+		'APP_DESCRIPTION': $description2000,
+		'BUILD_COMPANY': 'Skillsoft',
+		'CONTENT_ONLINE': 'Y',
+		'LAUNCH_TYPE': 3,
+		'PRIMARY_PARAM': link,
+		'ITEM_ONLINE': 'Y',
+		'MODULE_NAME': $title300,
+		'THUMBNAIL_URI': imageUrl ? '' : imageUrl,
+		'LOCALE': $lookup(
+			[{
+					'en-US': 'English',
+					'en': 'English',
+					'fr': 'French',
+					'fr-FR': 'French',
+					'de': 'German',
+					'de-DE': 'German',
+					'es': 'Spanish',
+					'es-DO': 'Spanish'
+				}
+			],
+			(localizedMetadata[0].localeCode ? localizedMetadata[0].localeCode : 'English')),
+		'LAUNCH_IN_A_NEW_BWSR_WINDOW': 'Y',
+		'REV_DTE': (
+			$ms := lifecycle.lastUpdatedDate ? $toMillis(lifecycle.lastUpdatedDate) : null;
+			$ms ? $fromMillis($ms, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null; ),
+		'CPNT_SRC_ID': contentType.'source' = null ? '' : contentType.'source',
+		'CREATE_DTE': (
+			$ms1 := lifecycle.publishDate ? $toMillis(lifecycle.publishDate) : null;
+			$ms1 ? $fromMillis($ms1, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null; ),
+		'CONTACT_HRS': $isodurationtohours(duration),
+		'ENABLE_MOBILE_ACCESS': true,
+		'MOBILE_PRIMARY_PARAM': link,
+		'DISPLAYLABEL': contentType.displayLabel,
+		'CATEGORY': contentType.category,
+		'PERCIPIOTYPE': contentType.percipioType
+	});
+	 $results := $merge([$transformed_data, $associationsAreas, $associationsSubjects, $associationsChannels]);
+	 $results;
 )
