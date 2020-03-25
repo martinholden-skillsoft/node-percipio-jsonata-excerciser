@@ -168,7 +168,7 @@ function timeboxExpression(expr, timeout, maxDepth) {
 }
 
 function evalJsonata(input) {
-  var expr = window.jsonataExtended(path.getValue());
+  var expr = window.jsonataExtended(window.jsonata, path.getValue());
 
   if (!this.local) {
     timeboxExpression(expr, 1000, 500);
