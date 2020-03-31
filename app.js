@@ -10,7 +10,7 @@ const logger = require('morgan');
 const errorHandler = require('errorhandler');
 
 const defaultInput = JSON.parse(fs.readFileSync('public/exampledata/metadata.json', 'utf8'));
-const defaultExpression = fs.readFileSync('public/exampletransform/sfMetadata.jsonata', 'utf8');
+const defaultExpression = fs.readFileSync('public/exampletransform/metadata.jsonata', 'utf8');
 
 // all environments
 app.set('views', `${__dirname}/views`);

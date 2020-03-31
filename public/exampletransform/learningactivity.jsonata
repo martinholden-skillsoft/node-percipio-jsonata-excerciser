@@ -1,6 +1,7 @@
 $.{
 	'username': userId,
 	'assetid': contentUuid,
+	'assetidShortened': $shortenUuid(contentUuid),
 	'xapiactivityid': ($percipiotype := $lookup([{
 					'video': 'video',
 					'course': 'course',
@@ -15,22 +16,18 @@ $.{
 					'linked content': 'linked_content'
 				}
 			], ($lowercase(contentType))); $trim('https://xapi.percipio.com/xapi/' & $percipiotype & '/' & contentUuid)),
-	'duration_hhmmss': (
-			$totalseconds := $number(duration ? duration : 0);
-			$hours := $floor($totalseconds / 3600);
-			$minutes := $floor($totalseconds % 3600 / 60);
-			$seconds := $floor($totalseconds % 3600 % 60);
-			$result := $pad($hours & '', -2, '0') & ':' & $pad($minutes & '', -2, '0') & ':' & $pad($seconds & '', -2, '0');
-			$result
-	),
+    'duration_hhmmss': (
+    	$seconds := $number(duration);
+    	$moment('1900-01-01T00:00:00Z').add($seconds, 'second').format('HH:mm:ss')
+    ),    
 	'status': ($coursestatus := $lookup([{
 					'started': 'INCOMPLETE',
 					'completed': 'COMPLETE'
 				}
 			], ($lowercase(status))); $coursestatus ? $coursestatus : 'INCOMPLETE'),
-	'firstaccessdateYYYY-MM-DD': firstAccess ? $substringBefore(firstAccess, 'T') : '',
-	'lastaccessdateYYYY-MM-DD': lastAccess ? $substringBefore(lastAccess, 'T') : '',
-	'completeddateYYYY-MM-DD': completedDate ? $substringBefore(completedDate, 'T') : '',
+	'firstaccessdateLongFormat': firstAccess ? $moment(firstAccess).format('LLLL') : '',
+	'lastaccessdateShortFormat': lastAccess ? $moment(firstAccess).format('llll') : '',
+	'completeddateDateOnly': completedDate ? $moment(completedDate).format('ll') : '',
 	'firstscore': firstScore ? $number(firstScore) : null,
 	'lastscore': lastScore ? $number(lastScore) : null,
 	'highscore': highScore ? $number(highScore) : null,

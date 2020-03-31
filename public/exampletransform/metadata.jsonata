@@ -1,223 +1,117 @@
 $.(
-	$plainstring := function($source) {(
-		$htmltags := /<\/?([a-z0-9]*)\b[^>]*>?/;
-		$dash := /[\u2010\u2013\u2014\u2015]|&(#8210;|#8211;|#8212;|#8213;|hyphen|dash|ndash;|mdash;|horbar;)/;
-		$apos := /&(#8217;|apos;|rsquo;)/;
-		$copy := /[\u00A9]|&(#169;|copy;)/;
-		$tm := /[\u2122]|&(#8482;|trade;)/;
-		$registered := /[\u00AE]|&(#174;|reg;)/;
-		$curylydoublequotes := /[\u201C\u201D\u201E\u201F\u2033\u2036]|&(ldquo;|rdquo;)/;
-		$pipe:= /[\u007c]|&(verbar;|vert;|VerticalLine;)/;
-		$otherentities := /&(#?[\w\d]+;)/;
+	$comment := '*******************************************************';
+    $comment := '*******************************************************';
+    $comment := 'TRANSFORM TO FLATTEN ALL DATA';
+    $comment := 'Author: Martin Holden';
+    $comment := 'Date: 31-MAR-2019';
+    $comment := '*******************************************************';
+    $comment := '*******************************************************';
 
-		$result := $source ? $trim($source) : '';
-		$result := $replace($result, $pipe, '-');
-		$result := $replace($result, $htmltags, '');
-		$result := $replace($result, $dash, '-');
-		$result := $replace($result, $copy, '(c)');
-		$result := $replace($result, $registered, '(r)');
-		$result := $replace($result, $tm, '(tm)');
-		$result := $replace($result, $apos, $base64decode('Jw=='));
-		$result := $replace($result, $curylydoublequotes, '"');
+	$comment := '*******************************************************';
+    $comment := '* Controls the number of values returned when we flatten';
+	$comment := '* the arrays/objects';
+    $globalMaxCount := 5;
 
-		$result := $replace($result, $otherentities, '');
-		$result;
-	)};
+    $comment := '*******************************************************';
+    $comment := '* Take an array of objects, and return a JSON object where:';
+    $comment := '*      JSON Key is $prefix with incrementing value e.g. KEY1, KEY2';
+    $comment := '*      JSON Value is the value e.g. en-us, or if array of objects a';
+    $comment := '*        $delimiter delimited string. e.g. en-us|Title1|Description1';
+    $comment := '* @param {string} $source - The array';
+    $comment := '* @param {string} $prefix - The prefix to use as the JSON Key';
+    $comment := '* @param {number} [$maxCount=10] - The number of Keys';
+    $comment := '* @param {string} [$delimiter=|] - The delimiter for Object strings';
+    $comment := '* @returns {Object}';
+    $comment := '*******************************************************';  
+    $flattenArrayAndObject := function($source, $prefix, $maxCount, $delimiter) {(
+        $maxCount := $maxCount ? $maxCount : $globalMaxCount;
+        $delimiter := $delimiter ? $delimiter : '|';
 
-	$ellipsis:= function($source,$maxlength,$ellipsisString) {(
-		$wordboundary := /\s(\w+)$/;
-		$trimlength := $maxlength - $length($ellipsisString);
+        $padarray := [1..$maxCount].('');
+        $sourceArray := $count($source)=0 ? [] : [];
+        $result := '';
+        
+        $sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {(
+            $model := $count($keys($v)) > 0 ? $v : { 'key': $v ? $v : '' };
+            $needdelimiter:= $count($keys($v)) > 0 ? $delimiter : '';
+            $trimend:= $count($keys($v)) > 0;
+            $kv := $spread($model);
+            $result:= $reduce($kv, function($accum, $val) {(
+                $accum & $each($val, function($val, $key) {$val}) & $needdelimiter;
+            )}, '');
+                $trimend ? $substring($result,0,$length($result)-1) : $result;
+        )})
+        );
 
-		$needtrim := ($length($source) > $maxlength);
-		$trimmedSource := $needtrim ? $trim($substring($source, 0, $trimlength));
+        $sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+            $v != ''
+        });
 
-		$trimmedSource := $replace($trimmedSource, $wordboundary, '') & $ellipsisString;
-		$needtrim ? $trimmedSource : $source; 
-	)};
-
-	$isodurationtoseconds:= function($isoduration) {(
-		$input := $isoduration = null ? '' : $isoduration;
-		$time := $substringAfter($input, 'T');
-		$hours := $contains($time, 'H') ? $substringBefore($time, 'H') : '0';
-		$remainder := $substringAfter($time, 'H');
-		$minutes := $contains($remainder, 'M') ? $substringBefore($remainder, 'M') : '0';
-		$remainder := $substringAfter($remainder, 'M');
-		$seconds := $contains($remainder, 'S') ? $substringBefore($remainder, 'S') : '0';
-
-		$result := (($number($hours) * 3600) + ($number($minutes) * 60) + $number($seconds));
-		$result;
-	)};
+        $sourceArray := $append($sourceArray, $padarray);
     
-  $isodurationtominutes:= function($isoduration, $precision) {(
-		$seconds := $isodurationtoseconds($isoduration);
-		$prec:= $exists($precision) ? $precision : 2;
-		$result := $seconds = 0 ? 0 : $round($seconds / 60, $prec);
-		$result;
-	)};
+        $sourceArray := $filter($sourceArray, function ($v, $i, $a) {
+            $i < $maxCount
+        });
 
-	$isodurationtohours:= function($isoduration, $precision) {(
-		$seconds := $isodurationtoseconds($isoduration);
-		$prec:= $exists($precision) ? $precision : 2;
-		$result := $seconds = 0 ? 0 : $round($seconds / 3600, $prec);
-		$result;
-	)};
-    
-	$title300 := (
-    	$ellipsis($plainstring(localizedMetadata[0].title),300,' ...');
-	);
+        $sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
+            $prefix & ($i + 1) & '~|~' & $v
+        });
 
-	$description2000 := (
-    	$ellipsis($plainstring(localizedMetadata[0].description),2000,' ...');
-	);
+        $sourceArrayDelimited.{
+            $substringBefore('~|~'): $substringAfter('~|~')
+        }
+    )};
 
-	$associationsAreas := (
-		$source := associations.areas;
-		$columnprefix := 'AREA';
-		$maxCount := 10;
+    $comment := '*******************************************************';
 
-		$padarray := [1..$maxCount].('');
-		$sourceArray := $count($source)=0 ? [] : [];
-			   
-		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
-				$v ? $trim($v) : ''
-		}));
+    $localeLongHand := [];
+    $localeLongHand := $append($localeLongHand,$map(localeCodes, function ($v, $i, $a) {(
+            $v & '|' & $languageInfo($v);
+            )}
+       )
+    );
+    $localeLongHandFlattened := ($flattenArrayAndObject($localeLongHand, 'localeWithLanguageCalculated'));
 
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$v != ''
-		});
 
-		$sourceArray := $append($sourceArray, $padarray);
-	
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$i < $maxCount
-		});
+    $localeCodes := ($flattenArrayAndObject(localeCodes, 'localeCodes', $globalMaxCount));
+    $keywords := ($flattenArrayAndObject(keywords, 'keywords', $globalMaxCount));
+    $localizedMetadata := ($flattenArrayAndObject(localizedMetadata, 'localizedMetadata', $globalMaxCount));
+    $by := ($flattenArrayAndObject(by, 'by', $globalMaxCount));
+    $expertiseLevels := ($flattenArrayAndObject(expertiseLevels, 'expertiseLevels', $globalMaxCount));
+    $modalities := ($flattenArrayAndObject(modalities, 'modalities', $globalMaxCount));
+    $technologies := ($flattenArrayAndObject(technologies, 'technologies', $globalMaxCount));
+    $associationsAreas := ($flattenArrayAndObject(associations.areas, 'associations.areas', $globalMaxCount));
+    $associationsSubjects := ($flattenArrayAndObject(associations.subjects, 'associations.subjects', $globalMaxCount));
+    $associationsChannels := ($flattenArrayAndObject(associations.channels, 'associations.channels', $globalMaxCount));
+    $associationsParent := ($flattenArrayAndObject(associations.parent, 'associations.parent', $globalMaxCount));
 
-		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
-				$columnprefix & ($i + 1) & '~|~' & $v
-		});
+    $transformed_data := (
+        $.{
+        'id' : id,
+        'shortenid': $shortenUuid(id),
+        'xapiActivityId': xapiActivityId,
+        'xapiActivityTypeId': xapiActivityTypeId,
+        'contentType.percipioType': contentType.percipioType,
+        'contentType.category': contentType.category,
+        'contentType.displayLabel': contentType.displayLabel,
+        'contentType.source': contentType.source,
+        'lifecycle.status': lifecycle.status,
+        'lifecycle.publishDate': lifecycle.publishDate,
+        'lifecycle.lastUpdatedDate': lifecycle.lastUpdatedDate,
+        'link': link,
+        'linkHostname': $parseUrl(link).hostname,
+        'imageUrl': imageUrl,
+        'imageUrlPath': $parseUrl(imageUrl).pathname,
+        'duration': duration,
+        'durationformatted': (
+        	$duration := duration ? $momentDuration(duration):  $momentDuration('PT0H');
+            $formatNumber($floor($duration.asHours()),'#00') & ':' & $formatNumber($floor($duration.minutes()),'00') & ':' & $formatNumber($floor($duration.seconds()),'00')
+          ),
+         'associations.translationGroupId': associations.translationGroupId,
+         'localizedMetadata[0].descriptionAsText': localizedMetadata[0].description ? $htmltotext(localizedMetadata[0].description) : null,
+         'localizedMetadata[0].descriptionAsTextTruncated': localizedMetadata[0].description ? $truncate($htmltotext(localizedMetadata[0].description), { 'length': 30 , 'omission': '...', 'wordbreakregex': '[\\s\\.%,:;\\?_]'}) : null
+    });
 
-		$sourceArrayDelimited.{
-				$substringBefore('~|~'): $substringAfter('~|~')
-		}
-	);
-
-	$associationsSubjects := (
-		$source := associations.subjects;
-		$columnprefix := 'SUBJECTS';
-		$maxCount := 10;
-
-		$padarray := [1..$maxCount].('');
-		$sourceArray := $count($source)=0 ? [] : [];
-			   
-		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
-				$v ? $trim($v) : ''
-		}));
-
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$v != ''
-		});
-
-		$sourceArray := $append($sourceArray, $padarray);
-	
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$i < $maxCount
-		});
-
-		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
-				$columnprefix & ($i + 1) & '~|~' & $v
-		});
-
-		$sourceArrayDelimited.{
-				$substringBefore('~|~'): $substringAfter('~|~')
-		}
-	);
-
-	$associationsChannels := (
-		$source := associations.channels;
-		$columnprefix := 'CHANNELS';
-		$maxCount := 10;
-
-		$isChannelResult := contentType.percipioType = 'CHANNEL' ?  [ $trim(id) & '|' & $trim(localizedMetadata[0].title) ] : [];
-
-		$padarray := [1..$maxCount].('');
-		$sourceArray := $count($source)=0 ? [] : [];
-			   
-		$sourceArray := $append($sourceArray, $map($source, function ($v, $i, $a) {
-				$v ? $trim($v.id) & '|' & $trim($v.title) : ''
-		}));
-
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$v != ''
-		});
-
-		$sourceArray := $count($sourceArray)=0 ? $isChannelResult : $sourceArray;
-
-		$sourceArray := $append($sourceArray, $padarray);
-	
-		$sourceArray := $filter($sourceArray, function ($v, $i, $a) {
-				$i < $maxCount
-		});
-
-		$sourceArrayDelimited := $map($sourceArray, function ($v, $i, $a) {
-				$columnprefix & ($i + 1) & '~|~' & $v
-		});
-
-		$sourceArrayDelimited.{
-				$substringBefore('~|~'): $substringAfter('~|~')
-		}
-	);
-
-	$transformed_data := (
-		$.{
-		'CPNT_ID': id,
-		'CPNT_TYP_ID': 'ONLINE',
-		'NOTACTIVE': lifecycle.status = 'ACTIVE' ? 'N' : 'Y',
-		'CPNT_TITLE': $title300,
-		'CPNT_DESC': $description2000,
-		'CMPL_STAT_ID': 'ONLINE-COMPL',
-		'CREDIT_SECONDS': $isodurationtoseconds(duration),
-		'CREDIT_MINUTES': $isodurationtominutes(duration),
-		'CREDIT_HRS': $isodurationtohours(duration),
-		'SHOW_IN_CATALOG': 'Y',
-		'CATALOG_1': 'EXTERNAL',
-		'APP_ID': id,
-		'APP_TITLE': $title300,
-		'APP_DESCRIPTION': $description2000,
-		'BUILD_COMPANY': 'Skillsoft',
-		'CONTENT_ONLINE': 'Y',
-		'LAUNCH_TYPE': 3,
-		'PRIMARY_PARAM': link,
-		'ITEM_ONLINE': 'Y',
-		'MODULE_NAME': $title300,
-		'THUMBNAIL_URI': imageUrl ? '' : imageUrl,
-		'LOCALE': $lookup(
-			[{
-					'en-US': 'English',
-					'en': 'English',
-					'fr': 'French',
-					'fr-FR': 'French',
-					'de': 'German',
-					'de-DE': 'German',
-					'es': 'Spanish',
-					'es-DO': 'Spanish'
-				}
-			],
-			(localizedMetadata[0].localeCode ? localizedMetadata[0].localeCode : 'English')),
-		'LAUNCH_IN_A_NEW_BWSR_WINDOW': 'Y',
-		'REV_DTE': (
-			$ms := lifecycle.lastUpdatedDate ? $toMillis(lifecycle.lastUpdatedDate) : null;
-			$ms ? $fromMillis($ms, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null; ),
-		'CPNT_SRC_ID': contentType.'source' = null ? '' : contentType.'source',
-		'CREATE_DTE': (
-			$ms1 := lifecycle.publishDate ? $toMillis(lifecycle.publishDate) : null;
-			$ms1 ? $fromMillis($ms1, '[MNn,*-3]-[D01]-[Y0001] [H01]:[m01]:[s01][z]') : null; ),
-		'CONTACT_HRS': $isodurationtohours(duration),
-		'ENABLE_MOBILE_ACCESS': true,
-		'MOBILE_PRIMARY_PARAM': link,
-		'DISPLAYLABEL': contentType.displayLabel,
-		'CATEGORY': contentType.category,
-		'PERCIPIOTYPE': contentType.percipioType
-	});
-	 $results := $merge([$transformed_data, $associationsAreas, $associationsSubjects, $associationsChannels]);
-	 $results;
+    $results := $merge([$transformed_data, $linkParsed, $localeCodes, $localeLongHandFlattened, $localizedMetadata, $keywords, $by, $expertiseLevels, $modalities, $technologies, $associationsAreas, $associationsSubjects, $associationsChannels, $associationsParent]);
+    $results;
 )
