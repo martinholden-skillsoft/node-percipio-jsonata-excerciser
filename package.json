@@ -1,6 +1,6 @@
 {
   "name": "node-percipio-jsonata-excerciser",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Based on the JSONata Excerciser project https://github.com/jsonata-js/jsonata-exerciser",
   "main": "start.js",
   "repository": {
